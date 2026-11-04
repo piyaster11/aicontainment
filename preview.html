@@ -93,7 +93,7 @@ Promise.all([J('score.json'),J('curated.json'),J('history.json'),J('lab.json'),J
  // gauge
  let g='';for(let i=0;i<40;i++){const a=Math.PI*(1-i/39),v=(i+.5)/4,on=v<=s;const x1=100+80*Math.cos(a),y1=105-80*Math.sin(a),x2=100+94*Math.cos(a),y2=105-94*Math.sin(a);
   g+=`<line x1="${x1}" y1="${y1}" x2="${x2}" y2="${y2}" stroke="${COL(v)}" stroke-width="3.2" stroke-linecap="round" opacity="${on?1:.15}"/>`}
- const na=Math.PI*(1-s/10);g+=`<line x1="100" y1="105" x2="${100+70*Math.cos(na)}" y2="${105-70*Math.sin(na)}" stroke="#fff" stroke-width="2"/><circle cx="100" cy="105" r="4" fill="#fff"/>`;
+
  gauge.innerHTML=g;
  // delta
  const byD=Object.fromEntries(H.map(h=>[h.date,h.score])),last=H[H.length-1].date,dd=n=>{const d=new Date(last+'T00:00:00Z');d.setUTCDate(d.getUTCDate()-n);return d.toISOString().slice(0,10)};

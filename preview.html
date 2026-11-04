@@ -96,7 +96,7 @@ Promise.all([J('score.json'),J('curated.json'),J('history.json'),J('lab.json'),J
  const na=Math.PI*(1-s/10);g+=`<line x1="100" y1="105" x2="${100+70*Math.cos(na)}" y2="${105-70*Math.sin(na)}" stroke="#fff" stroke-width="2"/><circle cx="100" cy="105" r="4" fill="#fff"/>`;
  gauge.innerHTML=g;
  // delta
- const byD=Object.fromEntries(H.map(h=>[h.date,h.score])),last=H[H.length-1].date,dd=n=>{const d=new Date(last+'T00:00:00');d.setDate(d.getDate()-n);return d.toISOString().slice(0,10)};
+ const byD=Object.fromEntries(H.map(h=>[h.date,h.score])),last=H[H.length-1].date,dd=n=>{const d=new Date(last+'T00:00:00Z');d.setUTCDate(d.getUTCDate()-n);return d.toISOString().slice(0,10)};
  const dv=(n,l)=>{const p=byD[dd(n)];if(p==null)return'';const x=+(s-p).toFixed(1);return `<span>${l} <span class="${x>0?'up':x<0?'dn':'fl'}">${x>0?'▲ +':x<0?'▼ ':'■ '}${x.toFixed(1)}</span> <span class="fl">(${p.toFixed(1)})</span></span>`};
  delta.innerHTML=dv(1,'vs yesterday')+dv(7,'vs last week')+dv(30,'vs 30 days');
  // chart

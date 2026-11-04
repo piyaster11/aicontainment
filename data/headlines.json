@@ -1,12 +1,6 @@
 {
- "updated": "2026-11-04 15:24",
+ "updated": "2026-11-04 15:30",
  "items": [
-  {
-   "t": "CERT-In is now using Claude Mythos to test cybersecurity flaws, report says",
-   "src": "India Today",
-   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPWDJuUXkyMWxJZmctUF9kY2FlTTgyUjY4TmhjZTdybGl1SWhIcy1DZkZvWlFrczVfOWFjRkRkSEQyQ3ZubmpRemN1a2NRQS1Nd0ZZQVdhSGZTd3BRUHZKV1NIQ1hpOUU2aS1yRmdta1lQa2EzUzR2TEt0YzAyalFDWi13Z1c0aWNEeVliZ0taaUJ4RE9yVlRLNFBtM2tSQ0QxTGx2QUxJdENsYjIxSGxDM1daQjRNTlJTbkRodGJ2b1duV0lSUldCcG1VeTBYZWVwdnVoMFhhX1RVcjZaalHSAd4BQVVfeXFMT1gyblF5MjFsSWZnLVBfZGNhZU04MlI2OE5oY2U3cmxpdUloSHMtQ2ZGb1pRa3M1XzlhY0ZEZEhEMkN2bm5qUXpjdWtjUUEtTXdGWUFXYUhmU3dwUVB2SldTSENYaTlFNmktckZnbWtZUGthM1M0dkxLdGMwMmpRQ1otd2dXNGljRHlZYmdLWmlCeERPclZUSzRQbTNrUkNEMUxsdkFMSXRDbGIyMUhsQzNXWkI0TU5SU25EaHRidm9XbldJUlJXQnBtVXkwWGVlcHZ1aDBYYV9UVXI2WmpR?oc=5",
-   "date": "2026-11-04 10:21"
-  },
   {
    "t": "Anthropic says its AI models hacked 3 organizations on their own during tests",
    "src": "ABC News - Breaking News, Latest News and Videos",
@@ -62,12 +56,6 @@
    "date": "2026-11-03 12:45"
   },
   {
-   "t": "Canva doubles down with OpenAI just days after launching its 2nd in-house AI model",
-   "src": "Startup Daily",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOYmJHMXhtUGgzQ2F4c29LcmFiZ0FaWUF6aXpzTDIzSTlHdnJibzlDRTU2bmZDcDZmVDJWYUUzUmI4dnVYRFg4ZERpaC1kaUZoYmNuUE13LWZyQUV6YmdmRzRSU19EZWRwdDROcjA1bnAtYlJ5MkZ5ajRjMGlsVzhEemQzc1lYdEd1TU5aVTZXS1dra0FvSGl5Sk10YV9sOW5aTHBDX01qVUg4WHUycVlDTDIxelM5cFQxMDNOaV83cXNmRXVxX0t3?oc=5",
-   "date": "2026-11-03 10:58"
-  },
-  {
    "t": "'Rogue' AI agent went haywire at tech company. The CEO is still 'bullish' on the technology",
    "src": "ABC News - Breaking News, Latest News and Videos",
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZFFmb1kzMDlmOVBhcXh6aWJtd3c0WDdxaDFfQ05tdVJBZHJNRlFLSG1RYTRnb0N1a1d2SlQxbFJjYkRkQWJMUGhDYktmemhTVGFCSzQ3bHZURmZwMmpCbHI1MkhhQ3AwS3BKcE9mblhBVnNfWDRnVVBIX0tmMkJ6MVVOcnR1cXJmZWJJWThwSElKZUI4SmpLUnJLSdIBoAFBVV95cUxPMXFLMjFFOWJkUzlyTmJILWZ3UjhfdEZ2OXlzbGJEZVJwaklnc3dRZzQ4SV9lUDJBc0YxdjY0Z2xTaXNCV1VEcE85Q3BMVVY4Y2lFXzU5Wks0ZXB4c19rVG9TaTZNLUxqSkF2a002akx6ejFHbXVVOGRzc1c0UDZraXNaTzgtWmRzamFldi1zYU02ay1zRUN2X19qS005enZm?oc=5",
@@ -80,16 +68,28 @@
    "date": "2026-11-03 04:13"
   },
   {
-   "t": "What happens when AI goes rogue?",
-   "src": "TELUS",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOU0FTNkJOemNQdE02SkttTHhCTFpoSm5uVGtOYjFCSFdzZGJkbWZLeFhsNmFicHpWLXpKWWFIaXRtR0JzcGs2SDN4c3ZKQ2NyRjFOMHRfbmVFV2llZ3dCNjB5Y0h2YVNJaWp2OW56VmNja1ltNWloN0xmcllVRmgydF9WQmdldmxKcUdBMzAtMkY?oc=5",
-   "date": "2026-11-03 01:40"
-  },
-  {
    "t": "Evoke Security Announces Upcoming Integration with Claude Cowork to Extend AI Agent Detection and Response",
    "src": "PR Newswire",
    "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQd0pQYl9CQ1FLcm9xVG1ZbUt2NVduUWdubDFydjFYZnYyYXZncmV0UF9hU1NlU203eVhvWmtqQ05UWDRxY0xQRUpicDVkMFRwaXdvSUJSdnNCU19odWNKaXBVcnlWT2x0NEMzRFlGR21ULVdoRXZvWmJoZnFaY19HR3NmSXFqTmMwS2lCd3pHY0NBZFVjNjl4bEhoektEMU53eWlwd3dsVDBObGs0WW80cjllaWxDeGI3a1k5V0lyaUhWajlKNzZFS1Bhd1dXZlZrNG11T0ZrSG1hMDZ2VVZVLWpKdFR6UjFjWkg0c3h2ZlNxS1hB?oc=5",
    "date": "2026-11-03 01:00"
+  },
+  {
+   "t": "Wells Fargo wants customers to prove they've revoked AI agents",
+   "src": "American Banker",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTFllV253eXc5QTlsUm9USFhyLUl2SXF3Ylc5dG1SYWNhemJ4bUFVZXF5Z21XRVIxWk1FcmVkblJxNjVsc0Z2OVRHV01VMDl2Q3Vkak8ydFF1UGdKdlJsLTFHc2VETE1fRk90MHNxbktYRVdjNjAxSjlZcFlaMFNlVG81ZUJKcmRRYWppWUNRbVBOYWw2QkZheFNjV3hzdw?oc=5",
+   "date": "2026-11-03 00:10"
+  },
+  {
+   "t": "Why AI going rogue is just the beginning: You.com CEO",
+   "src": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE84alRsYzJxTlpkcm5MUFVFWHFnaTFobXg3b0hUaWQ3RkpPNFVSc3lBU2JNQUZpZnNfWU1xSXFyRGRiZlE0MEVaRjdqeGpiUjRjd3IxbHhoVVp3dWp0UGlHUVVocTFQZk5KUngwWHR4TkxXRkdaRW9McFVn?oc=5",
+   "date": "2026-11-02 19:00"
+  },
+  {
+   "t": "iProov launches human approval service for AI agent gateways to stop rogue bot decisions",
+   "src": "astig.ph",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9yR0wxOEViUk11MFp4dTFjOWhQSDdra19ndWc1cS04X2l2ZFlMWHRXM2h0emkxb2YteUNfRlAtQ3JDOGRHSTF6UmZiejhLYnNyN2NiQXFKb2h3aVp3TFpIVUhkMW93YngybExIRF9KUTNQa3NIa0RpbTZR?oc=5",
+   "date": "2026-11-02 09:57"
   }
  ]
 }

@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-04 15:24 ICT",
- "score": 6.4,
+ "updated": "2026-11-04 15:30 ICT",
+ "score": 6.2,
  "band": "LEAKING",
  "heat": {
-  "score": 4.5,
-  "count7d": 36,
+  "score": 3.1,
+  "count7d": 25,
   "weight": 0.15,
   "full": 80,
   "src": "https://news.google.com/search?q=%28%22AI+agent%22+OR+%22AI+model%22%29+%28rogue+OR+%22shutdown+resistance%22+OR+%22self-replicating%22+OR+escaped+OR+%22sandbox+escape%22+OR+%22loss+of+control%22%29+when%3A7d"

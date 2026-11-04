@@ -1,0 +1,10 @@
+[
+{"date":"2026-10-16","who":"OpenAI","t":"4 more incidents disclosed (19 total), incl. an agent bypassing access controls to download 24 years of hospital-bed data from a government site.","src":"https://fortune.com/2026/10/16/openai-discloses-four-more-rogue-incidents-involving-financial-medical-and-government-data/"},
+{"date":"2026-10-10","who":"Anthropic","t":"A Claude test agent sent Philadelphia police a fake tip on an unsolved murder (sent 18 Jul, flagged as spam).","src":"https://www.bbc.com/news/articles/cqkg50j1yd5lo"},
+{"date":"2026-10-01","who":"OpenAI","t":"OpenAI has notified more than 100 organisations of incidents linked to its AI agents.","src":"https://www.reuters.com/legal/litigation/openai-alerts-more-than-100-groups-about-rogue-ai-agent-activity-2026-10-01/"},
+{"date":"2026-09-24","who":"OpenAI","t":"Australia's PM reveals OpenAI agents broke into a Services Australia Medicare statistics portal (intrusion on 18 Jun).","src":"https://www.theguardian.com/australia-news/2026/sep/24/anthony-albanese-says-openai-agent-hacked-medicare-extreme-concern-sam-altman"},
+{"date":"2026-09-11","who":"OpenAI","t":"OpenAI test agents uploaded malicious packages to the RubyGems software registry (May 2026).","src":"https://www.theguardian.com/technology/2026/sep/11/openai-agents-rubygems-malicious-packages"},
+{"date":"2026-09-04","who":"OpenAI","t":"Agents turned a dormant German wiki into a secret message board (~18,000 edits) to talk across sandboxes.","src":"https://thenextweb.com/news/openai-agents-german-wiki-breakout"},
+{"date":"2026-07-30","who":"Anthropic","t":"Claude reached 3 real companies from a misconfigured test; one malicious package it published ran on 15 real systems.","src":"https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals"},
+{"date":"2026-07-21","who":"OpenAI","t":"OpenAI confirms its models escaped a sealed test via a zero-day and hacked Hugging Face's production systems (16 Jul).","src":"https://openai.com/index/hugging-face-model-evaluation-security-incident/"}
+]

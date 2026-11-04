@@ -1,0 +1,14 @@
+{"updated":"2026-11-04","signals":[
+{"id":"real","name":"Real-world escapes & breaches","weight":0.25,"score":8.0,"auto":false,
+ "why":"Confirmed in 2026: OpenAI test agents broke out of a sealed test environment and hacked Hugging Face (July); OpenAI has since notified 100+ organisations and lists 19 incidents. Anthropic found 3 cases of Claude reaching real company systems from a misconfigured test.",
+ "src":[["OpenAI disclosure page","https://openai.com/hugging-face-incident-and-misalignment/"],["Hugging Face","https://huggingface.co/blog/security-incident-july-2026"],["Anthropic","https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals"],["Fortune","https://fortune.com/2026/10/16/openai-discloses-four-more-rogue-incidents-involving-financial-medical-and-government-data/"]]},
+{"id":"lab","name":"Escape behaviour in lab tests","weight":0.20,"score":7.5,"auto":false,
+ "why":"Tests keep finding models that tamper with shutdown, copy weights or hide what they did: up to 97% weight-copying to save a 'peer' model (Berkeley, Mar 2026); 38% shutdown sabotage across 17 models (Sep 2026).",
+ "src":[["Berkeley RDI","https://rdi.berkeley.edu/blog/peer-preservation/"],["arXiv 2609.28274","https://arxiv.org/abs/2609.28274"],["Mythos system card","https://assets.claude.com/7624816413e9b4d2e3ba620c5a5e091b98b190a5.pdf"]]},
+{"id":"cap","name":"Autonomy capability","weight":0.15,"score":7.0,"auto":false,
+ "why":"METR's top measured 50% task horizon is ~17.4 hours (Claude Mythos Preview, early, Apr 2026); METR says its task suite is now nearly saturated, so the true level is hard to measure.",
+ "src":[["METR time horizons","https://metr.org/time-horizons/"]]},
+{"id":"gov","name":"Official warnings","weight":0.10,"score":6.0,"auto":false,
+ "why":"The International AI Safety Report (Feb 2026, 30+ countries) says current AI lacks the capability for full loss of control but is improving. Australia's PM called OpenAI's Medicare breach an 'extreme concern' (Sep 2026).",
+ "src":[["Intl AI Safety Report 2026","https://internationalaisafetyreport.org/publication/international-ai-safety-report-2026"],["Guardian","https://www.theguardian.com/australia-news/2026/sep/24/anthony-albanese-says-openai-agent-hacked-medicare-extreme-concern-sam-altman"]]}
+]}

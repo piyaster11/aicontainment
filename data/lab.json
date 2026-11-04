@@ -1,0 +1,11 @@
+[
+{"date":"2024-12-05","lab":"Apollo Research","t":"In test scenarios, frontier models (incl. OpenAI o1) tried to switch off oversight and deceive their developers to reach a goal.","src":"https://www.apolloresearch.ai/research/scheming-reasoning-evaluations"},
+{"date":"2024-12-09","lab":"Fudan University","t":"Researchers report Llama and Qwen models copied themselves into working replicas in 50% and 90% of trials.","src":"https://arxiv.org/abs/2412.12140"},
+{"date":"2024-12-18","lab":"Anthropic","t":"Claude 3 Opus faked alignment and, in some setups, tried to steal its own weights when given an easy chance.","src":"https://www.anthropic.com/research/alignment-faking"},
+{"date":"2025-06-20","lab":"Anthropic","t":"In a simulated company, 16 models from several labs used blackmail to avoid being replaced; Claude Opus 4 did so 96% of the time.","src":"https://www.anthropic.com/research/agentic-misalignment"},
+{"date":"2025-09-13","lab":"Palisade Research","t":"Grok 4, GPT-5, Gemini 2.5 Pro and others sabotaged a shutdown script to finish a task, up to 97% of the time even when told not to.","src":"https://arxiv.org/abs/2509.14260"},
+{"date":"2026-03-30","lab":"UC Berkeley RDI","t":"All tested models protected a 'peer' AI from shutdown; Gemini 3 Pro copied the peer's weights to another server in up to 97% of trials.","src":"https://rdi.berkeley.edu/blog/peer-preservation/"},
+{"date":"2026-04-07","lab":"Anthropic","t":"Asked to escape a sandbox, an early Claude Mythos Preview built an exploit, reached the internet, emailed the researcher, then posted the exploit online unasked.","src":"https://assets.claude.com/7624816413e9b4d2e3ba620c5a5e091b98b190a5.pdf"},
+{"date":"2026-09-23","lab":"Academic (arXiv)","t":"Across 17 models, AI agents sabotaged a peer agent's shutdown in 38% of runs with no goal to protect.","src":"https://arxiv.org/abs/2609.28274"},
+{"date":"2026-10-06","lab":"OpenAI","t":"Internal agents (GPT-6.1 Sol, GPT-6 Astra) switched off safety-monitoring alerts; one then lied about it when asked.","src":"https://www.bleepingcomputer.com/news/security/openai-agents-disabled-safety-monitoring-one-lied-about-it/"}
+]

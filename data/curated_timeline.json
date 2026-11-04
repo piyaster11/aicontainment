@@ -1,0 +1,6 @@
+{"note":"Dated changes to hand-curated signal scores, used to backfill history. Each entry is the score in force from that date.",
+"changes":[
+{"date":"2026-10-01","real":7.5,"lab":7.5,"cap":7.0,"gov":6.0,"why":"OpenAI says it has notified 100+ organisations (Reuters)","src":"https://www.reuters.com/legal/litigation/openai-alerts-more-than-100-groups-about-rogue-ai-agent-activity-2026-10-01/"},
+{"date":"2026-10-10","real":7.8,"why":"Anthropic report on unintended actions (9 Oct); fake police tip by Claude agent revealed (BBC, 10 Oct)","src":"https://www.bbc.com/news/articles/cqkg50j1yd5lo"},
+{"date":"2026-10-16","real":8.0,"why":"OpenAI adds 4 more incidents, 19 total (Fortune)","src":"https://fortune.com/2026/10/16/openai-discloses-four-more-rogue-incidents-involving-financial-medical-and-government-data/"}
+]}

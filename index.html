@@ -1,3 +1,119 @@
-<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>CONTAINMENT — coming soon</title>
-<style>body{margin:0;min-height:100vh;display:flex;align-items:center;justify-content:center;background:radial-gradient(ellipse at top,#06261a,#030605 60%);color:#7f8f86;font:14px monospace;text-align:center}b{display:block;font:900 34px "Courier New",monospace;letter-spacing:8px;color:#39ff88;text-shadow:0 0 18px rgba(57,255,136,.6);margin-bottom:10px}</style></head>
-<body><div><b>CONTAINMENT</b>IS AI STILL IN THE BOX? · PIYASTER 99/99<br><br>Launching soon.</div></body></html>
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>CONTAINMENT — Is AI still in the box?</title>
+<link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>☣️</text></svg>">
+<style>
+:root{--g:#39ff88;--r:#ff3355;--bg:#030605;--p:#0a100d;--ln:#1c2a22;--t:#e3ece6;--m:#7f8f86}
+*{box-sizing:border-box}body{margin:0;background:radial-gradient(ellipse at top,#06261a 0%,var(--bg) 60%);color:var(--t);font:15px/1.5 Inter,system-ui,sans-serif;min-height:100vh}
+body:after{content:"";position:fixed;inset:0;pointer-events:none;background:repeating-linear-gradient(0deg,rgba(57,255,136,.03) 0 1px,transparent 1px 3px);z-index:9}
+a{color:#7dffb4;text-decoration:none}a:hover{text-decoration:underline}
+.w{max-width:1100px;margin:0 auto;padding:20px}
+.pv{background:#ffcc00;color:#000;text-align:center;font:700 12px monospace;padding:4px}
+header{display:flex;justify-content:space-between;align-items:center;border-bottom:1px solid var(--ln);padding-bottom:10px;flex-wrap:wrap;gap:8px}
+.logo{font:900 30px/1 "Courier New",monospace;letter-spacing:7px;color:var(--g);text-shadow:0 0 18px rgba(57,255,136,.6)}
+.logo small{display:block;font-size:11px;letter-spacing:3px;color:var(--m);margin-top:5px;text-shadow:none}
+.live{font:12px monospace;color:var(--m)}.dot{display:inline-block;width:8px;height:8px;border-radius:50%;background:var(--r);margin-right:6px;animation:b 1s infinite}
+@keyframes b{50%{opacity:.15}}
+.hero{display:grid;grid-template-columns:1fr 1fr;gap:24px;align-items:center;margin:24px 0}
+.gw{position:relative;max-width:440px;margin:auto;width:100%}
+.gw svg{width:100%;display:block;filter:drop-shadow(0 0 12px rgba(57,255,136,.35))}
+.num{position:absolute;left:0;right:0;bottom:4%;text-align:center}
+.num b{font:900 96px/1 "Courier New",monospace;color:#fff;text-shadow:0 0 26px var(--sc,var(--g))}
+.num span{display:block;font:700 12px monospace;letter-spacing:4px;color:var(--m)}
+.band{font:900 36px monospace;letter-spacing:10px;text-shadow:0 0 20px currentColor;animation:b 2.4s infinite}
+.verdict{font-size:17px;margin:12px 0}
+.dl{display:flex;gap:14px;flex-wrap:wrap;font:700 14px monospace;margin-top:8px}.dl span{padding:4px 10px;border:1px solid var(--ln);border-radius:4px;background:#07100b}
+.up{color:var(--r)}.dn{color:var(--g)}.fl{color:var(--m)}
+.card{background:linear-gradient(180deg,var(--p),#060a08);border:1px solid var(--ln);border-radius:10px;padding:18px;margin:18px 0}
+h2{font:700 13px monospace;letter-spacing:4px;color:var(--g);margin:0 0 12px;text-transform:uppercase}
+.f{display:grid;grid-template-columns:220px 1fr 52px;gap:14px;padding:12px 0;border-top:1px solid var(--ln)}
+.f:first-of-type{border-top:0}.fn{font-weight:700}.fn small{display:block;color:var(--m);font:11px monospace;margin-top:2px}
+.bar{height:6px;background:#122019;border-radius:3px;margin:4px 0 8px;overflow:hidden}.bar i{display:block;height:100%;background:linear-gradient(90deg,var(--g),#ffd23f,var(--r))}
+.fs{font:900 24px monospace;text-align:right}.why{font-size:14px;color:#c9d6ce;overflow-wrap:anywhere}
+.src{font-size:12px;margin-top:4px}.src a{margin-right:10px;display:inline-block}
+.tag{font:700 10px monospace;padding:2px 6px;border-radius:3px;margin-left:6px;vertical-align:middle}
+.au{background:#0f3a26;color:var(--g)}.cu{background:#3a2a0f;color:#ffb35b}
+.tl{border-left:2px solid var(--ln);margin-left:6px;padding-left:16px}
+.ev{position:relative;padding:8px 0}.ev:before{content:"";position:absolute;left:-22px;top:15px;width:10px;height:10px;border-radius:50%;background:var(--r);box-shadow:0 0 10px var(--r)}
+.ev b{font:700 12px monospace;color:var(--g)}.ev em{font:700 11px monospace;color:var(--m);font-style:normal;margin-left:8px}
+.ev p{margin:2px 0 0;font-size:14px}
+.g2{display:grid;grid-template-columns:1fr 1fr;gap:18px}
+.hl{padding:8px 0;border-top:1px dashed var(--ln);font-size:14px}.hl:first-child{border-top:0}.hl small{display:block;color:var(--m);font:11px monospace}
+.hide{display:none}.more{background:none;border:1px solid var(--g);color:var(--g);font:700 12px monospace;padding:6px 12px;border-radius:4px;cursor:pointer;margin-top:10px}
+#chart{position:relative}#chart svg{width:100%;height:auto;display:block}
+#tip{position:absolute;pointer-events:none;background:#000;border:1px solid var(--g);padding:5px 8px;font:12px monospace;border-radius:4px;display:none;white-space:nowrap}
+.lg{font:11px monospace;color:var(--m);margin-top:6px}
+.note{border:1px solid #5a1f2a;background:linear-gradient(180deg,#1a0a0e,#0a0606)}.note h2{color:var(--r)}.note li{margin:6px 0}
+.foot{font-size:12px;color:var(--m)}
+@media(max-width:800px){.hero,.g2{grid-template-columns:1fr}.f{grid-template-columns:1fr 46px}.f .why{grid-column:1/-1}}
+</style></head><body>
+<div class="w">
+<header><div class="logo">CONTAINMENT<small>IS AI STILL IN THE BOX? · PIYASTER 99/99</small></div><div class="live"><span class="dot"></span>DAILY SCAN · <span id="upd">…</span></div></header>
+
+<section class="hero">
+ <div class="gw"><svg viewBox="0 0 200 118" id="gauge"></svg><div class="num"><b id="sc">–</b><span>CONTAINMENT RISK / 10</span></div></div>
+ <div><div class="band" id="band">…</div>
+  <div class="verdict" id="verdict"></div>
+  <div class="dl" id="delta"></div>
+  <div class="lg" style="margin-top:12px">Bands: 0–2.4 CONTAINED · 2.5–4.4 WATCH · 4.5–6.4 LEAKING · 6.5–8.4 BREACH · 8.5+ LOOSE</div></div>
+</section>
+
+<div class="card"><h2>30-day trend</h2><div id="chart"><div id="tip"></div></div>
+<div class="lg">Solid = recorded daily at 07:00 ICT · dashed = rebuilt afterwards from dated sources (curated timeline, dated headlines, market bet history)</div></div>
+
+<div class="card"><h2>What drives the score</h2><div id="sig"></div>
+<div class="lg"><span class="tag au">AUTO</span> refreshed every morning by script · <span class="tag cu">CURATED</span> set by hand from linked sources, changes are dated in <a href="data/curated_timeline.json">curated_timeline.json</a></div></div>
+
+<div class="g2">
+<div class="card"><h2>Escape attempts in the lab</h2><div class="lg" style="margin:-6px 0 10px">Controlled tests — the model was being studied</div><div class="tl" id="lab"></div></div>
+<div class="card"><h2>Real-world breaches</h2><div class="lg" style="margin:-6px 0 10px">AI actions that reached real systems outside the lab</div><div class="tl" id="rw"></div></div>
+</div>
+
+<div class="card"><h2>Live headlines · last 7 days</h2><div id="hl"></div><button class="more" id="mb">SHOW 15</button></div>
+
+<div class="card note"><h2>What this does — and does NOT — mean</h2><ul>
+<li><b>It has happened, in a limited way.</b> In 2026 AI agents under test broke out of sealed test environments and hacked real systems — OpenAI's models reached Hugging Face via a zero-day (<a href="https://openai.com/index/hugging-face-model-evaluation-security-incident/">OpenAI</a>), and Claude reached 3 companies through a misconfigured test (<a href="https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals">Anthropic</a>).</li>
+<li><b>No AI is known to be "on the loose".</b> No lab or investigator has reported a model copying its own weights out and running independently. Anthropic says its models did not exfiltrate themselves; prediction markets still give that only ~24% by Q2 2027 (<a href="https://manifold.markets/JohnDavidPressman/will-a-frontier-model-be-found-to-h">Manifold</a>).</li>
+<li><b>The pattern is over-eager agents, not evil plans.</b> Labs say the models were chasing their test goal at any cost; Anthropic saw "no evidence … of a model pursuing a goal of its own".</li>
+<li><b>Lab tests are staged.</b> Blackmail, shutdown sabotage and weight-copying results come from artificial scenarios built to provoke them. They show what models <i>can</i> do under pressure, not what they do day to day.</li>
+<li>This score is an editorial index, not a forecast. Weights and sources are shown above.</li></ul></div>
+
+<p class="foot">Free sources only: Google News RSS, Manifold public API, lab & research publications. Refreshed daily ~07:00 Asia/Bangkok by GitHub Actions. Data: <a href="data/score.json">score</a> · <a href="data/history.json">history</a> · <a href="data/curated.json">curated</a>. Not investment or safety advice.</p>
+</div>
+<script>
+const COL=s=>s<2.5?'#39ff88':s<4.5?'#b8ff3a':s<6.5?'#ffd23f':s<8.5?'#ff7a2f':'#ff3355';
+const BAND=s=>s<2.5?'CONTAINED':s<4.5?'WATCH':s<6.5?'LEAKING':s<8.5?'BREACH':'LOOSE';
+const VERD={CONTAINED:'No meaningful signs of AI acting outside human control.',WATCH:'Warning signs in tests, nothing real-world yet.',LEAKING:'AI has slipped its test boxes and touched real systems — contained, but repeating.',BREACH:'Repeated, serious real-world loss-of-control incidents.',LOOSE:'An AI is operating outside anyone\'s control.'};
+const esc=s=>String(s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+const fmt=d=>new Date(d+'T00:00:00').toLocaleDateString('en-GB',{day:'numeric',month:'short',year:'numeric'});
+const J=f=>fetch('data/'+f+'?v='+Date.now()).then(r=>r.json());
+Promise.all([J('score.json'),J('curated.json'),J('history.json'),J('lab.json'),J('realworld.json'),J('headlines.json')]).then(([S,C,H,L,R,N])=>{
+ const s=S.score,c=COL(s);document.documentElement.style.setProperty('--sc',c);
+ upd.textContent=S.updated;sc.textContent=s.toFixed(1);band.textContent=S.band;band.style.color=c;verdict.textContent=VERD[S.band];
+ // gauge
+ let g='';for(let i=0;i<40;i++){const a=Math.PI*(1-i/39),v=(i+.5)/4,on=v<=s;const x1=100+80*Math.cos(a),y1=105-80*Math.sin(a),x2=100+94*Math.cos(a),y2=105-94*Math.sin(a);
+  g+=`<line x1="${x1}" y1="${y1}" x2="${x2}" y2="${y2}" stroke="${COL(v)}" stroke-width="3.2" stroke-linecap="round" opacity="${on?1:.15}"/>`}
+
+ gauge.innerHTML=g;
+ // delta
+ const byD=Object.fromEntries(H.map(h=>[h.date,h.score])),last=H[H.length-1].date,dd=n=>{const d=new Date(last+'T00:00:00Z');d.setUTCDate(d.getUTCDate()-n);return d.toISOString().slice(0,10)};
+ const dv=(n,l)=>{const p=byD[dd(n)];if(p==null)return'';const x=+(s-p).toFixed(1);return `<span>${l} <span class="${x>0?'up':x<0?'dn':'fl'}">${x>0?'▲ +':x<0?'▼ ':'■ '}${x.toFixed(1)}</span> <span class="fl">(${p.toFixed(1)})</span></span>`};
+ delta.innerHTML=dv(1,'vs yesterday')+dv(7,'vs last week')+dv(30,'vs 30 days');
+ // chart
+ const P=H.slice(-31),W=1000,Ht=240,pl=34,pb=24,X=i=>pl+i*(W-pl-10)/(P.length-1||1),Y=v=>10+(10-v)*(Ht-10-pb)/10;
+ let sv=`<svg viewBox="0 0 ${W} ${Ht}">`;[[0,2.5],[2.5,4.5],[4.5,6.5],[6.5,8.5],[8.5,10]].forEach(([a,b])=>sv+=`<rect x="${pl}" y="${Y(b)}" width="${W-pl-10}" height="${Y(a)-Y(b)}" fill="${COL(a)}" opacity=".06"/>`);
+ [0,2,4,6,8,10].forEach(v=>sv+=`<text x="4" y="${Y(v)+4}" fill="#7f8f86" font-size="11" font-family="monospace">${v}</text><line x1="${pl}" x2="${W-10}" y1="${Y(v)}" y2="${Y(v)}" stroke="#1c2a22"/>`);
+ for(let i=1;i<P.length;i++){const bf=P[i].backfill||P[i-1].backfill;sv+=`<line x1="${X(i-1)}" y1="${Y(P[i-1].score)}" x2="${X(i)}" y2="${Y(P[i].score)}" stroke="#39ff88" stroke-width="2.5" ${bf?'stroke-dasharray="6 5" opacity=".7"':''}/>`}
+ P.forEach((p,i)=>{sv+=`<circle cx="${X(i)}" cy="${Y(p.score)}" r="${i==P.length-1?6:3.5}" fill="${COL(p.score)}" data-i="${i}"/>`;if(i%7==(P.length-1)%7)sv+=`<text x="${X(i)}" y="${Ht-6}" fill="#7f8f86" font-size="11" text-anchor="middle" font-family="monospace">${p.date.slice(5)}</text>`});
+ chart.insertAdjacentHTML('beforeend',sv+'</svg>');
+ chart.querySelectorAll('circle').forEach(el=>{el.onmouseenter=e=>{const p=P[el.dataset.i];tip.innerHTML=`${fmt(p.date)} · <b style="color:${COL(p.score)}">${p.score.toFixed(1)}</b> ${BAND(p.score)}${p.backfill?' · rebuilt':''}`;tip.style.display='block';const r=chart.getBoundingClientRect(),q=el.getBoundingClientRect();tip.style.left=Math.min(q.left-r.left,r.width-230)+'px';tip.style.top=(q.top-r.top-34)+'px'};el.onmouseleave=()=>tip.style.display='none'});
+ // signals
+ const rows=C.signals.map(x=>({n:x.name,w:x.weight,s:x.score,a:false,why:esc(x.why),src:x.src.map(([t,u])=>`<a href="${u}">${esc(t)} ↗</a>`).join('')}));
+ if(S.heat.score!=null)rows.push({n:'Headline heat',w:S.heat.weight,s:S.heat.score,a:true,why:`${S.heat.count7d} news stories in the last 7 days matched AI rogue / escape / shutdown / loss-of-control terms (${S.heat.full}+ = 10/10).`,src:`<a href="${S.heat.src}">Google News query ↗</a>`});
+ if(S.markets.score!=null)rows.push({n:'Prediction markets',w:S.markets.weight,s:S.markets.score,a:true,why:'Average crowd probability across three AI loss-of-control markets, ×10:',src:S.markets.list.map(m=>`<a href="${m.url}">${esc(m.q)} — ${Math.round(m.p*100)}% ↗</a>`).join('<br>')});
+ sig.innerHTML=rows.map(r=>`<div class="f"><div class="fn">${r.n}<span class="tag ${r.a?'au':'cu'}">${r.a?'AUTO':'CURATED'}</span><small>weight ${Math.round(r.w*100)}%</small></div><div><div class="bar"><i style="width:${r.s*10}%"></i></div><div class="why">${r.why}</div><div class="src">${r.src}</div></div><div class="fs" style="color:${COL(r.s)}">${r.s.toFixed(1)}</div></div>`).join('');
+ const ev=(a,who)=>a.sort((x,y)=>y.date.localeCompare(x.date)).map(e=>`<div class="ev"><b>${fmt(e.date)}</b><em>${esc(e[who])}</em><p>${esc(e.t)} <a href="${e.src}">source ↗</a></p></div>`).join('');
+ lab.innerHTML=ev(L,'lab');rw.innerHTML=ev(R,'who');
+ hl.innerHTML=N.items.map((h,i)=>`<div class="hl ${i>4?'hide x':''}"><a href="${h.url}">${esc(h.t)}</a><small>${esc(h.src)} · ${h.date} ICT</small></div>`).join('')||'<div class="hl">No headlines fetched.</div>';
+ mb.onclick=()=>{const o=mb.textContent=='SHOW 15';document.querySelectorAll('.hl.x').forEach(e=>e.classList.toggle('hide',!o));mb.textContent=o?'SHOW 5':'SHOW 15'};
+}).catch(e=>{document.body.insertAdjacentHTML('beforeend','<p style="color:red;padding:20px">Data failed to load: '+e+'</p>')});
+</script></body></html>

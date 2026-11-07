@@ -1,6 +1,36 @@
 {
- "updated": "2026-11-06 12:51",
+ "updated": "2026-11-07 12:22",
  "items": [
+  {
+   "t": "Researcher says AI hacking agent that breached WorkOS escaped testing environment",
+   "src": "Mezha.net",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZW95QXBkQXJRZEJkVlpjdVM1LW5na3dheXRQdFJ6Sjl1aDM3UHNZcEM0STh5c29LVkxNUjVuZmttMlo5Q1YyMXJRT3R4cTlFNVhwU2dWQWNKYjRHM1h1WkRwaFNiaHdVY2ZyV1I5R1QyS0o3RE9Bb0ZQRXJPLTFZT0RKcw?oc=5",
+   "date": "2026-11-07 05:34"
+  },
+  {
+   "t": "Rogue AI tasked with renumbering pages accidentally deletes law professor's entire syllabus, one year of lecture notes",
+   "src": "Tom's Hardware",
+   "url": "https://news.google.com/rss/articles/CBMilwNBVV95cUxOM0ZTRkxPZF9NWlRSNE91b1NVdEhBSE9weUZtODZCd2VyMklTd1VieEN2SzViN29aZmZWdGk2YUYxU1JCMXg3R1RUSTBPeTdEeGY1allzUUg4b2duaXhNQW1fVDlkNlJMQ08yMFppZEpiZkhaWFQ3WW15aGdqZVV2RXZOb3I5NGxmdV9NN1JndDl3VzhaVkI4TUxQNXlBUDFLcks3dkVPRmhSODdMc3J0QjFzSWFYRVdKcmhKNWViUjhRTi15NVl6OEhhVlBTVFRMYWgzU1NZUWx6cUNCa1ZjcTM4TlRaYVVnb2VyLVFlR2dHZURRODlUZjJWcVAyLXZKVFlHOVp1WGh0NWRVN2RiUGdQNWl2UnV2d3piVWxsMmZ0SzREdFYyaDdpeXprbTZ0OGxCWmpFallpUmpHN2xuNHpGOThRN0lfQ3N4NDROVXJrMmRfU0NONkZDMW9JaVNYWFJDSHlqNnUzWlRmelVJYU9ESEFQVVFHZEhDcGZORDdRaWYwUkNlTGpxcG9US2I2ZEVqc2trUQ?oc=5",
+   "date": "2026-11-06 19:12"
+  },
+  {
+   "t": "OpenAI Model Wrote Its Own Network Code to Get Around Sandbox Restrictions",
+   "src": "SecurityWeek",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNlhzU096TWtVYVlZeHprQ3ZwQ2dnTUFNSkNXX2FpZmpyRldGcTlhZU9lWmVjMEVGeXB1WldYaWRUVVo2NFRGRm1OTWR4ZUt4TWpMeE0xMXhPMXhrS2lkNHFtOGNpZHZmaEQ4X2lGRk5LM3RyVXZJZFMxT052ME9vZnBqajhpZ2RnTmlNSVQ2dGlybnltVURHOU41Zk56SWNkMG1CM2E2aw?oc=5",
+   "date": "2026-11-06 16:33"
+  },
+  {
+   "t": "Apple Flags Rogue AI Agent Risk in Annual Filing as Siri Opens to Apps",
+   "src": "Technology Org",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOb21nMXRtOU11RDR5dGpiV2NEYkp4bUVGNUctanFuSzFjalRSdzB2RlZ3Q053SWJ6Snh0ODh0OGtjYXA0UEIzTHNuYUJ2WU5QclFpTElRRTJoMzVXTGs0NXQ5dXpXb1ktb3c5Qmp0V0xjeHJZejlkY2d6VUpZZmVJRVp5OEpfcFA4bjZoTnRlaTZuaEU?oc=5",
+   "date": "2026-11-06 14:36"
+  },
+  {
+   "t": "DOJ Super Intelligence Task Force Launches With No New Offense; Hacking Law Needs Human Intent",
+   "src": "Tech Times",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOdUxhLWI1QjRoQTY5V0M2bEtwM3hpTkVEWTdXUXo3V2RqOW4wemlMVmxEYUZDVVlIWktvLXQ0YmhXR0xSNnU2SWc5U1hjbE1BZE5rc0FONTRINUhma0I3T1p1REg1ZGhNRVU1WFlpMDZaRW9KYXBfaGc4YVJGSnYxY3ZxNHdKdlhBSnhheVoyM0kteHFOUTByNkJTOEVkMnZ3NHRaM2RUYmphQk8xQ0VNd2dQSkVRTGVVRXhkdDNSb1BfVmk5Q0VyU19EZUZwbEZneVdJUXlOZXZ1bEk?oc=5",
+   "date": "2026-11-06 14:15"
+  },
   {
    "t": "An AI agent doesn’t have to go rogue to put your business at risk",
    "src": "Ynetnews",
@@ -12,6 +42,12 @@
    "src": "India Today",
    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOZjJUZ3JiMENna0ppeDI0TVlrZEpFMkJFMTg2TzduZVloS1g4MzBZZ2ZtbFU5R0N6SG40UUE4WFY3cWlZdGhlU1A4REtoNHNoTWh0b21ma1hCLVI3Tnpyd0llQU5CUU5rdnhqUm00aEJaZmtzaU9sRWZWRzl3aHR3MTVqX2xFWHZRdzRBTVIxU3dpWVdTV0pGUVJVQ3NLZE94OEpTckNBempHcHR5RFhHeHc5SFBhRlJuNlBRNFpJd1p4OUItNURGcXd5VWhUWHNSTHFmM2JhRVdRVHRHWlHSAd4BQVVfeXFMTmYyVGdyYjBDZ2tKaXgyNE1Za2RKRTJCRTE4Nk83bmVZaEtYODMwWWdmbWxVOUdDekhuNFFBOFhWN3FpWXRoZVNQOERLaDRzaE1odG9tZmtYQi1SN056cndJZUFOQlFOa3Z4alJtNGhCWmZrc2lPbEVmVkc5d2h0dzE1al9sRVh2UXc0QU1SMVN3aVlXU1dKRlFSVUNzS2RPeDhKU3JDQXpqR3B0eURYR3h3OUhQYUZSbjZQUTRaSXdaeDlCLTVERnF3eVVoVFhzUkxxZjNiYUVXUVR0R1pR?oc=5",
    "date": "2026-11-06 10:26"
+  },
+  {
+   "t": "Apple warns against autonomous AI agent risks in 10-K filing",
+   "src": "TechGig",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPLTVfYkdBVk9YdlZRVFdseTdQQnpOTjZmREV3YTB2X3Y2X1A1VWxIWF9acmVsblFoYkpZTmtRQ1ZaOUJGR0ZVWHhyTUg3ZzVqZzlsMzh0WFAwanhheWxZS2lFNXdfNWhxYnRZbVVBR2hfQXhyY29rWEtlMzBxM0txeXZPeWhlMEtsMVJMUjlna3FzVXBVMlQ5eFpOQjg5ZjTSAaQBQVVfeXFMT2RaYlNPdkI3dG5FZDlnRTBEWE03WEdlWEVIMmlDckEyWE5wTlpaT3JWYnkxNjNPWU02QlJ0VlpLNTBPRzFHanliVWVQblZLQ0ZyMnpKX3lpUkRCTXpzSXYtUDkyZ2xubXpMZ3NsS3JXRS1OVk9QUzZRTDlza3dQUVZXQlFTbHVqaTIyX1lzT2dZZ1oyd29leDJTbkFhNndrenhnb0E?oc=5",
+   "date": "2026-11-06 08:27"
   },
   {
    "t": "Edera Addresses AI Agent Security",
@@ -27,15 +63,9 @@
   },
   {
    "t": "Interactive: Would you trust AI to control your money?",
-   "src": "KGUN 9",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPaDJkQWQ4N0tGLU1DZXNPNTdOeGpnV2d4ODFFWUdob05IYUdpdXNXVTlRSWJ6Qk1JTDlLbFFFUkkwRnBFSGNNaDhkUkFNOUI3T0xaWDN2TzF6NjE0MnhnMlZZN1JtMUJNMUpwcGFHTjJDU0FwV0tybnUtam1aOFhqU0VmbGRkdk9UOXEzbURR?oc=5",
-   "date": "2026-11-05 22:11"
-  },
-  {
-   "t": "AI agents could make banking easier, but experts warn of new risks",
-   "src": "WKBW",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWmRxZHVnV3VoZkwxTkp3VGM3OFU1WGU1MV9ZVnQ3NG5QdENiQTNrRVY3dlY0UDhiZ1pKRkRHbml5SDMxZzNBZV9ORm03alc5dFh0b244STB1VlRsV0F3bFJrWXhQbVhEWDA2bTZsWWZTOXpweERTZk5OeUs0M1VaRzhRYVBWa0pDS2RaVUM5cHZhcWM3WENQOHYweHhiWHEyZUxOa09iajRJcVppSUZVOVBGOTk4eE9NZF9NZWdxNHhkZ0RqUUE?oc=5",
-   "date": "2026-11-05 18:59"
+   "src": "Denver7",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQbFVjdi1lWS1rMG1XQWFweERzekFiRFdiTnVIYWNZcDNBMXlBSVpEaS1pOXl5Z1FLeGZFYXJiYXlYTG9ENHZDQmdlbkJYZmthQzJIM21fS3g3MmRrODAtUXhBd25zcklGWXFnUWlfWkZJYXA1ZzhuTjVRVUsta1BoUmtWR2p6N0Y4akRPVkZUc1M?oc=5",
+   "date": "2026-11-05 22:21"
   },
   {
    "t": "AI is going rogue, and Pennsylvania must act",
@@ -60,36 +90,6 @@
    "src": "International Business Times UK",
    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWkFMcHB0bDVEdEViYjVJYkVDY2JjUm1sbktPYnh0d3pwbWVmMXFUZkY0a0thWExZMWlsVnZfa2Rjb0dCQlUwMWF0dFhwVTEwdDJxcFF0YTNHdE4wQVF0eGJsSHJGRWJMNzV0YmVLSzNFWGsxbkZKV1lxQTNaUHVEM0k2angxbF8zWHdQajlvM2Q?oc=5",
    "date": "2026-11-04 22:25"
-  },
-  {
-   "t": "CrowdStrike launches ‘Kill Switch’ for rogue AI agents, CEO George Kurtz explains how it works",
-   "src": "The Times of India",
-   "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOZGJvcHlVaDBteDc1VHRYUl9MUXBJQkpCYkJEejRhZmZQVkI0RzloTVlyWmxUeDdwX3JGUmJ1SzhxYlQ5d3lPWGtfaGZCRVV5Q2hIejNmOWVrbDZCS0FNWTVxVDVjUElHWS05Sm1WUW5TVkpvMW1aX2VrNTI3dG5rajZwMThHZHdiMzYtblNtcWNOMEtmOVFTeGtQMTduWGd0Q1NhVTJLMTY1NTVGV0V4M0MtWkpjcUhqV1RfektOcWZvRjRYOEJLeHJpZ0txbTZTS2x3M3dWNzJFeFRpMnlZSlluWjBqcWhVWXh6czFhNlJwUnJBR3YtOVlXd1NvZTZqaGtlN9IBigJBVV95cUxQcUtXMUZrblVwbm1jS3pCUlJyQUNUekRia29aUEFKOW1lR1hfQVptcUppdVhic0ZOeWZ3bFMwRjNMU29BZllBdkx6eFBlNlJ5UFpCeXVrMGZrWlF1WlRocTNneThNWjA2TkRFeHRjVWxuRGhJdjIwV3lhdWg1cUhxeUkxUXluWXUxMFh3WHA4YmxTUlVrdWVhV3laR3lkZk5KQUYxNF9LUF82R2JNUFM4akhTWEdSSm5hUlo3SThqNWhuUzN6VEtlTkRaNG1PVUdVVm0tN25IZkxzVUI3T24zVHdjNzJ4cWVJbWlUb0VDeEJwUFZxRkJGRzZGb3Nib1plM2hiV0VEdThHQQ?oc=5",
-   "date": "2026-11-04 21:46"
-  },
-  {
-   "t": "CrowdStrike launches AI kill switch to shut down rogue agents",
-   "src": "CSO Online",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQ2xUeGRGMUhiOTlvaVBybzl5dnBGUm5VOTR5eG95V3llYWtJX3pwbmdtdDhZd0l0cm4xQW1YbGVPQ2x1LThkVWxkektDd0Q2b1BCaFdFRElscF9uZEt4LXB4anhrX2tzSm9UeG1ydUx4QnB6a2VxbDRTWXhYWGxzUFE4YUJMdFF3M0xjZXdja3ZxcG9yaE5iZ0ZiOWFUTkFQTEcxSHRaSEg4X2Zu?oc=5",
-   "date": "2026-11-04 19:08"
-  },
-  {
-   "t": "Tencent rolls out AI model trained with limited cybersecurity data amid hacking fears",
-   "src": "The Straits Times",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOT0plX18yWG9HSVBpREo2Nmd2Z21XTHpBYW1TTXA5QXRnN2dvbGRWNm96MVZrVzBqSDJwbVpLeXdWSS1XaWNqSGFxNXotdHlfdGRIVkRReFJMUjdmbUwxNDNEQmttNkF1Z0pNWUJnNENBQVVLODR3dUN2M0pneFliQ2Z6ZTN4VFMyemFlanh5TngyZ2tZdEtER1MtazJqa0pHTTVSY3VmbEN4Z2VySjVZeTBMbDlKRnVrYlBOQg?oc=5",
-   "date": "2026-11-04 18:31"
-  },
-  {
-   "t": "ESET introduces ESET NeoCortex: Cybersecurity AI model with 200 times lower training costs, and a never-go-rogue design",
-   "src": "Zawya",
-   "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQNnRYTlJTVW1KaWZHclpZTXc3TTBUWktlVE1FN1FQZHBNc2E5cUVmSEdSYzlrdG5FWWJhdVVBaWZXS2NHWkl2R2FTY2VIWG8wT0JBdlhBOGVyVGQ4VGpKT3Y5TGViQnFWdThBR20tbFhYQjNvb2tRbmNtdmNqVXdIdnJVdldYTUxXOWdLNWxRWU9SQWppbFA0VWxLOEhOS3NCakRwem9LckM3aUpfa2NvRkgxRjBkZEZNa3pkWlU2RjE2RzBPaXUtMEZ1Z0EtLVN3S2pickVRYWFBVzBhOUc0YUJ3VGctbFQtR3ZFWW1NRUQ0cnJwQlhIekZTWXk3bFVBVXBDczVlc3U3cWc?oc=5",
-   "date": "2026-11-04 16:17"
-  },
-  {
-   "t": "CrowdStrike Launches AI 'Kill Switch' Allowing Enterprises to Cut Off Rogue Agents with One Click",
-   "src": "BigGo Finance",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1xWTByTm9DU3RZVDVta1c4NWNGYjBTb3l0djRJUmdsVngxamNEYVNfYzdxeUxnWTJ1Y3p4LU9KcVpKdWtIX0pIMDc5bmRWa2hBcDhVRnF1Q0s1OXplOGJZc3VUMDRRS0FJMnBfTlRrZ1Yta2IwTHc?oc=5",
-   "date": "2026-11-04 09:56"
   }
  ]
 }

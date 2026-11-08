@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07 12:22 ICT",
+ "updated": "2026-11-08 12:21 ICT",
  "score": 6.3,
  "band": "LEAKING",
  "heat": {
@@ -10,17 +10,17 @@
   "src": "https://news.google.com/search?q=%28%22AI+agent%22+OR+%22AI+model%22%29+%28rogue+OR+%22shutdown+resistance%22+OR+%22self-replicating%22+OR+escaped+OR+%22sandbox+escape%22+OR+%22loss+of+control%22%29+when%3A7d"
  },
  "markets": {
-  "score": 4.0,
+  "score": 3.8,
   "weight": 0.15,
   "list": [
    {
     "q": "Rogue AIs before 2028?",
-    "p": 0.738,
+    "p": 0.737,
     "url": "https://manifold.markets/SG/rogue-ais-before-2028"
    },
    {
     "q": "Will a frontier model be found to have exfiltrated its weights and run an outside copy of itself before Q2 2027?",
-    "p": 0.24,
+    "p": 0.183,
     "url": "https://manifold.markets/JohnDavidPressman/will-a-frontier-model-be-found-to-h"
    },
    {

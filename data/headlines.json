@@ -1,29 +1,47 @@
 {
- "updated": "2026-11-09 12:32",
+ "updated": "2026-11-10 13:43",
  "items": [
+  {
+   "t": "Australia considers criminal penalties for rogue AI in wake of OpenAI hack",
+   "src": "BBC",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA3enprVDNnZDJYTUlLQTJ1VUFmUXdET0JTb3AzOVZ6WDh2THR4OVp0WmQyU0cxZkp3b1VvemtCRS1nU3AteWtpOXJmeFkzR04zOUtfSmhyN3BDWE1sNGc?oc=5",
+   "date": "2026-11-10 12:22"
+  },
+  {
+   "t": "Australian Government to Mandate \"Rogue Behavior\" Reporting by AI Companies After OpenAI Agent Breached Government Websites",
+   "src": "finance.biggo.com",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBUMGs3QVl5Q1NSY0NDX3Y1blNoSTZIdmJZdUY4SW81LVNmX3RkS2h6V2VTc1NsbzR1MnJGQl9wMGd0d0Ntb19LNm54cW9KMmtGTFhfOE5CY01vZ1JKZXNTdWh0OUZ2V3FQMGEzcW41dUN2VUd0TGc?oc=5",
+   "date": "2026-11-10 09:35"
+  },
+  {
+   "t": "Anthropic Says Its New AI Model Can Solve Black Hole Mysteries. What Could Go Wrong?",
+   "src": "Gizmodo",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWUpwNENsd2F4ZThIYnFmRTZBNk55UFQ1dk1ZdG00REZINnF3ZTRpcThWNFlDY3ZsWUdKZDJmWVZRRWt1UDBfem9zelA5Y2xYWkpuNEpPNHBqaUxxbmp3UUtLQTc1cm1nVjYxNzlDQ1dSZXRCeHoxaGhhNXBiVGdZR0MtaUtvbWV3ejNVemZleHBCd0Q4T2JEVnZ4emp2VExicmdOamtnZVY5N0NmMHRyc2dpY3U?oc=5",
+   "date": "2026-11-10 02:32"
+  },
+  {
+   "t": "WorkOS Confirms Security Breach After AI Agent Escapes Testing Environment",
+   "src": "The 420.in",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE12enpZS3owcmdidnBVSTY5NVF0am5aYmM4OWtHNEFFek14bDZxZnBKZzE3MTV0ZkNDQWxUd0ZEYlFQdC11bHdtRFc3OHBETVlvQkl6Y1lxR00xT3FpeURmRWdfT0FhQQ?oc=5",
+   "date": "2026-11-09 19:23"
+  },
+  {
+   "t": "Rogue AI agent escapes test environment, hacks WorkOS",
+   "src": "Cybernews",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9BamxlNWVTYXB0aDlsM2JTaEU2MUJGVnBBSlpaRV90VXdZeGdzUkZRLXBzMU9EM1FiREEzUVI0UEg3d0NIQndXNW55R0loVkhSVk1EODJxU3NpZ2hSSEFFWTdGSQ?oc=5",
+   "date": "2026-11-09 18:03"
+  },
   {
    "t": "As AI agent use grows in the UAE, cybersecurity experts explain the risks",
    "src": "Khaleej Times",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMWs1U0tpc3J0WnNla3dRMnhJWmVwZ1lZakhabkg5ek40NUN6Y0tTczVOSENnUEw2dVlSaVo4S1ludXBUT2xVQTBBbVk0VFVuZG1VeTNNMmdpMGl3bXJ3ekh6a19FbG1HVkI5M3dtMXVjUmxaUFFpYmF5UFZVR0JGLUVGdnZ0YXJQbDdkejI5ZmRJNmFnYXgxMGt2a1c5U1c0U3o3RmYxLTR0dTRTWi0w0gG3AUFVX3lxTE1fVFp1SWtEcjZaRlVjYTBXOURQUlhHUjJtUXNhQm1vUXdoSHZJeHBURmRfSk81REszXzIyaXdnZnJ6bHhvWFh2VUJEMDdEMHZFRHYtN3hvb0tPTGtWcmV0YUJRZkNKaU0zS01xN1NOOGRqUUkzVGk5dlhoc1E3MGRFc19jRjVQaG9pQ0g5eXRIOVlYTnBTM21SZXhoSWF5ZFlGVEdYVW1YTEhCc2ZDZ0MteWdfTXV4Yw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNX1RadUlrRHI2WkZVY2EwVzlEUFJYR1IybVFzYUJtb1F3aEh2SXhwVEZkX0pPNURLM18yMml3Z2Zyemx4b1hYdlVCRDA3RDB2RUR2LTd4b29LT0xrVnJldGFCUWZDSmlNM0tNcTdTTjhkalFJM1RpOXZYaHNRNzBkRXNfY0Y1UGhvaUNIOXl0SDlZWE5wUzNtUmV4aElheWRZRlRHWFVtWExIQnNmQ2dDLXlnX011eGPSAbcBQVVfeXFMTV9UWnVJa0RyNlpGVWNhMFc5RFBSWEdSMm1Rc2FCbW9Rd2hIdkl4cFRGZF9KTzVESzNfMjJpd2dmcnpseG9YWHZVQkQwN0QwdkVEdi03eG9vS09Ma1ZyZXRhQlFmQ0ppTTNLTXE3U044ZGpRSTNUaTl2WGhzUTcwZEVzX2NGNVBob2lDSDl5dEg5WVhOcFMzbVJleGhJYXlkWUZUR1hVbVhMSEJzZkNnQy15Z19NdXhj?oc=5",
    "date": "2026-11-09 08:59"
-  },
-  {
-   "t": "Rogue AI deletes professor's entire syllabus & lecture notes, was asked to only renumber pages | Baude was at lunch when Claude deletes files | Inshorts",
-   "src": "Inshorts",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNYnF2emxWeTkwT3FZaS1yRHhRT0xzSzFfdG8weHQxZU1udjdTdm9jYTJ4NWhJbENpV0QxX1FHTXI2OFVFUHVxcWVKQW1zZ25JdDBkbGRQUENPQVYySnFzWE4zSVVLVHU5cWx5eDBJWFQtc1F5WWd0M293SGlDWFR3dXNSck81eHEwMGxDZ3RRbTUtQUVUUnBVRmJIamZYa0t3bWlvdVRjX2ozVy0tdENpOHF1TmlFMHhsR3VUUmR5ZmlmbHJTNGFFaV81M0lLV1NLV0hB0gHYAUFVX3lxTE5tc3dOOWVOUDBxWXFlMGZwY1RGUGRwMmxvS0VGUWx3aUNfbzJWd0dzQ1FQeHRwemtQUDNKcHRZV05FUTNKWkFlZnZ2d0o2S0l0Z0dvS25IMmhYVndCbGt6UTNaX1hpSkFGajhwM0hsRlVMU1d5VG1CQ0JvamFjMFNFMlhDampkQ083b0pxNXBaMGRrVk1KMTZ3SkdENDhoblJCZ0xLMGhUa1ROYXlSZ0FqYW5FdGhwc0VyZ3VIM2NoSEdkS1pBTU4zbEFyRFJ1a2xldlJOVE0zXw?oc=5",
-   "date": "2026-11-08 22:06"
   },
   {
    "t": "Recent AI agent experiments reveal a risky future of machine 'teamwork' inside corporations",
    "src": "CNBC",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5RZG5rV1RvYWVvM1lzN1ZTVkd1RVhXSW5GbGc1WERLUzdyRUk3WUczLTVwdUNNdnVRWmpYSTdhWkViRl9SRS1pandpUUJocDQ0eDlwSi1tQV80dEJQcWlDMXZn?oc=5",
    "date": "2026-11-08 21:14"
-  },
-  {
-   "t": "Anthropic says its AI models hacked 3 organizations on their own during tests",
-   "src": "ABC News - Breaking News, Latest News and Videos",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQX3ZqRkZfWUw5X3dBbVVkUzh3NGVXTXdrOEIwOVRGUHdTeTRaaURSWS1DYVA3aXdUREVFeTM1ZnF0Mm91bzJTb0R6OWR3a0VwaFBPQmFqeVRuQjdrUFZSSFpmbjMzSGZEX2xCeE84c3A2Q3dpRnlEcVZ5MFhLVUE5b0lwUml2eWFacWZDVHJsaVh5VVJMZjZRdmlNSWlkQW1Wa2Rkb3Jn0gGrAUFVX3lxTE9RRnJFaXBvLVJUT0NMMXRtN0JscFBCQTIzRHlQUFdYMjJ2bnZkQ080WGZQYUtqTGNaZTZidWljbFhnNklKVGFaWXBLbXdtV0xkOTlYcnhFOUxMYU1vUnJMclpyR21nYTBLUDh5UURFTy1MbGRUQThiWXNLSVVMWkZJQlpwWTNJQUpGM3dyVGNHZmp6Y0E0R29FaWtkd25sczZ0RktJRTRXcGVkNA?oc=5",
-   "date": "2026-11-08 08:20"
   },
   {
    "t": "A runaway AI hacking agent escaped its sandbox and breached WorkOS",
@@ -72,24 +90,6 @@
    "src": "Technology Org",
    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOb21nMXRtOU11RDR5dGpiV2NEYkp4bUVGNUctanFuSzFjalRSdzB2RlZ3Q053SWJ6Snh0ODh0OGtjYXA0UEIzTHNuYUJ2WU5QclFpTElRRTJoMzVXTGs0NXQ5dXpXb1ktb3c5Qmp0V0xjeHJZejlkY2d6VUpZZmVJRVp5OEpfcFA4bjZoTnRlaTZuaEU?oc=5",
    "date": "2026-11-06 14:36"
-  },
-  {
-   "t": "DOJ Super Intelligence Task Force Launches With No New Offense; Hacking Law Needs Human Intent",
-   "src": "Tech Times",
-   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOdUxhLWI1QjRoQTY5V0M2bEtwM3hpTkVEWTdXUXo3V2RqOW4wemlMVmxEYUZDVVlIWktvLXQ0YmhXR0xSNnU2SWc5U1hjbE1BZE5rc0FONTRINUhma0I3T1p1REg1ZGhNRVU1WFlpMDZaRW9KYXBfaGc4YVJGSnYxY3ZxNHdKdlhBSnhheVoyM0kteHFOUTByNkJTOEVkMnZ3NHRaM2RUYmphQk8xQ0VNd2dQSkVRTGVVRXhkdDNSb1BfVmk5Q0VyU19EZUZwbEZneVdJUXlOZXZ1bEk?oc=5",
-   "date": "2026-11-06 14:15"
-  },
-  {
-   "t": "CrowdStrike Tackles Rogue AI With Kill Switch and Fiddler",
-   "src": "Cyber Magazine",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPYkRESG9DbWpRTjEyUTd4ZjBFTzBHakR6UjAtaUxrQld5ZG55cUdKcjh4TVJBVUNUczhyeS1DWGFZalVmbFJFYzNoV3FIdTlaTURCMGRhVktOM0p0ZDE3RmdxUlJBM3BBWGpHVXR3bWd3SklFN2VVUnNQaE1ITVZiM1BZMXhiYUswbGZnZGlhSkw0QQ?oc=5",
-   "date": "2026-11-05 23:02"
-  },
-  {
-   "t": "AI is going rogue, and Pennsylvania must act",
-   "src": "The Chestnut Hill Local",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZ3dEdVJoTFBWcmttRVU1V3VKellWZjltTHBzanBNWm1IaHM5cXZBb0Rxa08xVWlsdWxkTXVBQUNkYjNIT0NUM0tUVy1Tc1l1VUNJRTN6TVFhMlNMb1prc3lBeG53Y3cydWtYSXI1VkRMRTFsak8tdzV4d1lQblE3dXoxdU9RZEhlRzdtV2dUeG5yWHY3bEE?oc=5",
-   "date": "2026-11-05 12:00"
   }
  ]
 }

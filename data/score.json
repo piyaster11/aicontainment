@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09 12:32 ICT",
+ "updated": "2026-11-10 13:43 ICT",
  "score": 6.2,
  "band": "LEAKING",
  "heat": {
@@ -20,7 +20,7 @@
    },
    {
     "q": "Will a frontier model be found to have exfiltrated its weights and run an outside copy of itself before Q2 2027?",
-    "p": 0.183,
+    "p": 0.182,
     "url": "https://manifold.markets/JohnDavidPressman/will-a-frontier-model-be-found-to-h"
    },
    {

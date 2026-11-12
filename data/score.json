@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-11 12:29 ICT",
+ "updated": "2026-11-12 13:34 ICT",
  "score": 6.3,
  "band": "LEAKING",
  "heat": {
-  "score": 3.9,
-  "count7d": 31,
+  "score": 3.6,
+  "count7d": 29,
   "weight": 0.15,
   "full": 80,
   "src": "https://news.google.com/search?q=%28%22AI+agent%22+OR+%22AI+model%22%29+%28rogue+OR+%22shutdown+resistance%22+OR+%22self-replicating%22+OR+escaped+OR+%22sandbox+escape%22+OR+%22loss+of+control%22%29+when%3A7d"
@@ -20,7 +20,7 @@
    },
    {
     "q": "Will a frontier model be found to have exfiltrated its weights and run an outside copy of itself before Q2 2027?",
-    "p": 0.18,
+    "p": 0.178,
     "url": "https://manifold.markets/JohnDavidPressman/will-a-frontier-model-be-found-to-h"
    },
    {

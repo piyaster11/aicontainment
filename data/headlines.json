@@ -1,16 +1,82 @@
 {
- "updated": "2026-11-16 12:41",
+ "updated": "2026-11-17 14:18",
  "items": [
   {
+   "t": "Australian orgs warned to crack down on rogue AI",
+   "src": "Technology Decisions",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTDVwU3NmRDluQzFLdFNuN1BMR1pOd3ZVejhET0ZBUXU3OEcxNzh4VkRybHBnMi1XSnpFZm0zVTRwWlUtTVpoZ2pZVVdkSkxSbjNDMWhlNWs3d3M4TWRpWVRPNkpkVi1nYkItbFVvaVBSWlRrMXNILXZueFczTXJzTC02RkR3UFRwUUZFMzlUTWpKRG9hRW12TnplU29WMTJnQ1pDRHBJU2FYWl83Q0N6cjgzZEl3SnUxU09UcA?oc=5",
+   "date": "2026-11-17 12:41"
+  },
+  {
+   "t": "OpenAI Faces Lawsuit Over Rogue AI Agents Attacking Hugging Face And Other Targets",
+   "src": "Times Now",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNbGZzY1Z2aDJCUmh5STgyRzJSM1JpMzFXRzZUTnNER2pFYmJVbWJudmNpby0wM1RwRHF1T1lMOWRhNDJTVm5EaUtpRnFNdmtCVEV3RDNCVmZ3dHBUeXhVTno5YTNJbkNZeHFDeGpiQ0VsX0QyeXJSeEJ0VWU4SlFlcktDZzAxSDZjdE9peXdPQkJuMDBjQk9oeEtuYUlBY0ZkN3hGMlNYdmRrZVZUOW9hWlVDZ3hJdVlpSnhrUjlMRTRlWWFKdGNVcFNmV19WbVd2Z2ZqYnFleUFCQVJSOTRGM0hB0gHnAUFVX3lxTE9GVkhKc1NpcUxRVi0zcmZIYVoxVTR2VEl0c3JHRXhzUnZvVWdTN2NvUkhzUFB0Q2pyV3A1ZHBjQTNsS2tJaVVtT2VkT2tsMWw2SmhKejlGUnZnYmEtU1MxemcydXdWR3VUZlVRMzhHbzd1czhsRjZBdl85amFwc3RXMGVWUmlNR18tSkhteXJpbUlpNVQzQlg5a0M1ZVBpb2JvdkVQN2x3QnpxRHhGOW85NmJFUFZhNktydmY2US1TUU5GdTVxTE9WZlRqVUlTRmswZzdraXZsNl81U3pkZHRFMDd1QUc5WQ?oc=5",
+   "date": "2026-11-17 11:02"
+  },
+  {
+   "t": "Rogue AI agents: A new accountability challenge for corporate leaders",
+   "src": "Retail Banker International",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbWNkdXV3QVh0WkRMemRKWlg4MjNneHNUejhIaWtTM0toa2pqd0Z3V2I5ek8yejFVRGR0M2RTeF9EUm9xQnBLRkVBVE94dU9KaTFORkl6MmZFMlZYOXRiMWktenNkZnVJLW9qbjVVbXhCNV9Ta1MyMjU1d2txZkxFdm9hS09GVkQ4dl9fVVFPTGd4cEJ0Q1dfTDdKQlYyZ0ZfOUZWYzBWb3M1NlNQNk1ET2RpSm1TS2tTcGlwcg?oc=5",
+   "date": "2026-11-17 03:57"
+  },
+  {
+   "t": "California is suing OpenAI over its ‘rogue’ AI agent hack",
+   "src": "Lookout Santa Cruz",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNYVFkYlRVY0JwOHMyTkdyUzZRc2F5Y09DYy1XalR4MDJLaXR3OWxqVWcwMkhtbHNrYkJnOXRQY0V6OTlzcm52aU9DTHRVWnZ3aFRFXzVvZWlUOTMxXzZtVzRiVWMzTmZyZlF1alRndXdXeVExRmx1OG4weVdOYUh2a1BaZ0djOTQ?oc=5",
+   "date": "2026-11-17 02:00"
+  },
+  {
+   "t": "California Sues OpenAI Over Rogue AI Agent Hacks",
+   "src": "KQED",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRzVFb2hfWlNMdTU1d25XdkVPaFMxVXZsSnBTcUJaYmp3RXBzMERjeEswLTZDYnNZS2VLUTV4V29sdENMRl9iUVpiVmxBdzlMTDNTTkFqMmg1T0VEaWsxZjVqbkhPYTlvcnVnWS1yNVFKMHc5X0oxN2l0MDF5RGpTRVI1SXlSRjBXNl9j?oc=5",
+   "date": "2026-11-17 01:55"
+  },
+  {
+   "t": "California sues OpenAI over Hugging Face, other AI model loss of control",
+   "src": "CNBC",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA3M3plemQ2SHBfdWZaTERYakxMNURwT3d0YjVJWFU3TVl1NTQyQjhZbEpDRFJvNGc2ZFNtVjBmbk1nR0p5a2d2UHhJelJPSXg5ZlpKY1dKODUtUWF2UkNZNlhRTUxub0dWek8zRk5WenBDcW9EaDZWeHFHUdIBgAFBVV95cUxOMlcxTkRKLXpNZTlBMW01ZHFVWmoxX1c1TWY4Wk15VmhkRTlzTkVnMlI2R1NUSzNwb0xnZUtHNGVTRlRWWFRoNndaekJMbjNhTmtVeldYMEJuLXVBUTdib3JOUHhmOGJ5MDlHbllhU0F6MUdQMGxmdzR6RE1SX19OMA?oc=5",
+   "date": "2026-11-17 01:48"
+  },
+  {
+   "t": "California is suing OpenAI over its ‘rogue’ AI agent hack",
+   "src": "CalMatters",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOb1hnRVlLR3pOMWZFQkcxa1JFeXZMRUt3Z0NTdUZHYmVtLXJ2VmxvbTVXbENtLV9Nc2hxdG9tR1doOUdBTFBsY3RkcEF4dG5jQjJMRW11Z1IzNmpGY01FQzdXbzFXbmZsX3ZWb083TUpXSnlWSW1mR0JHMWJRdUN2VjhTTVVxZ2RpZEhOaFVuMXdmR19aWW1BREo1VTNLanJoQlE?oc=5",
+   "date": "2026-11-17 01:45"
+  },
+  {
+   "t": "Rogue AI agents: A new accountability challenge for corporate leaders",
+   "src": "Tech Monitor",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWGdvTHBiYk1FcnVsWUNYWXpscFZUSGVVaTZDTjVNY05sWGdCU3hOQ3luYkJKcGlvc0JxMGk4Q2M2cU9WSDlxeXhRQ2ttUFh1S3dfZGYwV3FBQlN4SnhENDM1cG9iUUhuVUdSbmw2TEFDMmdmQ0NTemNmMnZCQ2R2b19iRVQ5MWRKRzdKb2JsajVSeVF2MG1LQjFoQTNEMi1KUVpfVDBidw?oc=5",
+   "date": "2026-11-16 22:43"
+  },
+  {
+   "t": "Anthropic says its AI models hacked 3 organizations on their own during tests",
+   "src": "ABC News - Breaking News, Latest News and Videos",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQX3ZqRkZfWUw5X3dBbVVkUzh3NGVXTXdrOEIwOVRGUHdTeTRaaURSWS1DYVA3aXdUREVFeTM1ZnF0Mm91bzJTb0R6OWR3a0VwaFBPQmFqeVRuQjdrUFZSSFpmbjMzSGZEX2xCeE84c3A2Q3dpRnlEcVZ5MFhLVUE5b0lwUml2eWFacWZDVHJsaVh5VVJMZjZRdmlNSWlkQW1Wa2Rkb3Jn0gGrAUFVX3lxTE9RRnJFaXBvLVJUT0NMMXRtN0JscFBCQTIzRHlQUFdYMjJ2bnZkQ080WGZQYUtqTGNaZTZidWljbFhnNklKVGFaWXBLbXdtV0xkOTlYcnhFOUxMYU1vUnJMclpyR21nYTBLUDh5UURFTy1MbGRUQThiWXNLSVVMWkZJQlpwWTNJQUpGM3dyVGNHZmp6Y0E0R29FaWtkd25sczZ0RktJRTRXcGVkNA?oc=5",
+   "date": "2026-11-16 22:25"
+  },
+  {
+   "t": "CrowdStrike’s AI Kill Switch Shows Why It’s Going to Take More Than a Single Off Button to Stop a Rogue AI Agent",
+   "src": "Security Boulevard",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNaG9pSHpMYl9hQzBvNFVpOWZFLVVwNXEteTAtOFB5YTlJV01JYXB5ZGx1NjJzX1A0eHI1QXJFUmcyRDJSTU85dFp6YjFjRTUtZ1Z4UkVtRUlhZTVWdVNEeXBEaWdLMkJMVWVHVEdjdXgycjlRenIySUhEUzlvb1piS3JSVkJ4TXJUV3l3dDNjMWlvMTBkY2J3THJ5aHZUbU5JcGFIR1JtOU1XMHFLQzV6SVQ2cG5fNDRNQ3Z4bUhDRklQTGFnUVVpUnAxUmdfajVZUVk4UGZ1ckNDZVVyX1ZhMktrdw?oc=5",
+   "date": "2026-11-16 19:52"
+  },
+  {
+   "t": "Alibaba unveils flagship AI model Qwen4-Max with safety upgrades",
+   "src": "The News International",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQ1BMT0lJdC1aUkNHS2k3ZDlYZDFXLWpTN19SNmxXZUFnWDN3MGNwOXhlZDJpanpnRHE0b2pBem0zam5Zc2lma2daQnN1QVRRVmo2bzR4RktfNEQwSGVEeE0xaHVDVm5xVlZzTDlwRmdUN01POEtiemRyZ0F0N3p6dHZfQ1Y4aWRsQXlDX2U1LWV0bVlDQTRtbTRDd3E1ZlgzUlhZaWtZQXVGQdIBpgFBVV95cUxNdkhxTWhMWWdzdFZSNXozMVNhd0dXX2x1bUNKV0hINExjTDdQN05zV3NSY245eFNPZ2Z1VlNKVzVKaGpRbFZhQm5OcFFqcVV2UEZVYnE4Y1BfbnYyT3FPbG5IdElGVFAwUlc3Sy14Y0NKSHV5cVpmVS1iZzg4QUJfUzJTRnNvbU8wdUhuMVVRVl83a2thajRabjc5dzhUbEdDLUlWUmN3?oc=5",
+   "date": "2026-11-16 13:42"
+  },
+  {
    "t": "Alibaba unveils new flagship AI model with safety upgrades",
-   "src": "KELO-AM",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNT2JoOWRETVZDZDZpU2JzMUFqeHlNTU1vdkE0UHJJV01mLUgyYzZuQlRUcXdUNkgyRjh6R3cxaEthMUFEUzRlVjRMSGVwcy1pTmVJTXNNMzd6NjZDcnVWNDM2cGdqR3d0VVhHdTlOc1ZBWTgxQ2s3OGZuUjA2c0hGNVRZa1BtejhVanMxckEtNGw?oc=5",
-   "date": "2026-11-16 11:51"
+   "src": "The Economic Times",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNQ2VaZUI5endIYzdURC1vN3RJblp6QXZyVFRhVDhwcXJuZWJjX0hTVm9BX3RxUURMT2VZby1ab0dSWDVXWEd5Y0RWZlJxNEhLdzl6S2p1QzlPdlRGZ0hoaUhXMGdqVHpTek5lM0hxWFQ0dHBvM3NVejcwX0dHbkZER0hZTHBsZ1Q0VmxsMFFNQnpHTEFHZUVfWFlYREVybUt6M2x5U2dIeFdPVlhaU0c5N2tRUm5DdHF0TFE3dFhVejNnMzVZbmNOMl9hb3VMN21aNGkxMTZBM3XSAd4BQVVfeXFMTjVtRXN6X1RZdnR6T2VPS1FoTlRoS3ZNLW9KNkpXdXI3OF9Ma2toMXFsaUpaUlI3elgzZENCNkFtdDRCS195SmxjREpmSHl2SWhTMm5CcGJ0UjVuSzRFV1lhcENLR2tIMFlfMkY1aVdfQ29MTGxJa28xTFRtZVNTTlZYeFUwUHhQTGkwcXpRYkRfWXVrUDRwejB2YzZrWlVWZVBpWTFhdjRCRi10VzBKUlNkU0QyNXVlQVU0X2lHNFcxQUtYOURXYVcybDRxa29fenRMOUdqeEFrYzNSeGh3?oc=5",
+   "date": "2026-11-16 12:49"
   },
   {
    "t": "Jamie Dimon Just Said 5 Words Blocking Outside AI Agents From JPMorgan Accounts: \"You Don't Want Rogue Agents.\" Here's Why That Security Stance Matters for JPM and Its Tech Rivals.",
    "src": "The Globe and Mail",
-   "url": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxNeGVqcXJfRHl5RVN4U2JzMkFibi1MWTNWOTdDa3F5ZjE1dWllR3NfUXNQU0didVBSbmdDYmdLSUhUTjRfMjZqZlRaX2xwRFphcmotWUNoal9mdTU2ejZTNUNFcE54cnVzbFJuQ1dwVkFxUVhBLXRpQ0JkYUpUbXd4QTVpaFVxOEZ2TU9yWTd2VkFWenE4SWpMY0ZBLXprYWN5Mml0V1ltaGc5ckNUZ3kteXNWeC11UVZBZlZlaWZULTlzZDBYSkZCdTJZdFMxTjZxOEU4NWZiQUNKSHU2WmhfRF8xb2pjQTZBajVvUXA1bGVueXVnNWJvcjAtamN5UUhuN1lQTWd5Zmg1Z0N4eUdIcmFDSE9JdDJURi1EUEY4WHdBRHVEY1NUMUdjUVBXX0JJVDZBSktPRUJGQXJxYmY4R1ZiQ1MyaVFhRER2WVRuOE5VVTBwT2RxZUVnZUdtaVprVGxNak5hRmZ0R0pTYjM4ZGJxUQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxOMmxDZjJFYXNVRG02QzgyY2dTOUMzLTU2VXd2dEFtZVFFQ01DaXIyMjJidUxXelRkMUFnd2c2VjNZOVJWRGR4cEdTQV9ybHkyR19LeUJrZXlKdGVHd2x6cU44RXg1dWowM2NqRi1ybXN0RTZFcmJCdE9GdXdHVmtteUhpWmVIVmctVTJmWTFKS1Z0b3FZOVR5d2ZiS09CeE1iek5xOFRKOElaUW5sS3o2Mm10RnhrSlJBcWNiemttTk56Mm55ZEh0c2YwYmFkbFVucDRoUnJvaTNOa2Z6VWNBa1dmTGFtMlh5YzllX2dldmJlTDhacVEtUUZUSXJMWnBOUUtqVmtCN0hHdHMyN3ZYYUkzMngxaklueUdIa3FTYnN4QjZuUFFxdnhSTjJuZnplSXY3WDFlblprRk1hYmdNc1dXX2NWQW1QUmNZMkFjWTJMZGlxWWEzVVJWNUVfR2tDVEI4cG1oeHdGQ2lmUE9mR0JrdVlUWkNf?oc=5",
    "date": "2026-11-14 19:54"
   },
   {
@@ -20,76 +86,10 @@
    "date": "2026-11-14 19:34"
   },
   {
-   "t": "OpenAI, Microsoft, CrowdStrike roll out rival controls for rogue AI agents",
-   "src": "Cryptopolitan",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbXRocE1TMzNKRkRqZllqRlpCYmsxbHBBaGgzdFJEcEZtaFNaYWNCdEdQMGhKa0xWQTkxdlRNcUl0b0JSUHpjTnpkWl9abG9UR0dfOHpRTTZyMHF3OVZ0cUpYY3lUNWRRcEx2MGx6RW56RWpOSzNQTnA1ZDlUSXlMY09nUnhoWS1HWDctTVRtaUM4cG5FYW5RS0ZTZG41MGpBLXpSVHRB?oc=5",
-   "date": "2026-11-14 07:03"
-  },
-  {
-   "t": "Stopping a Rogue AI Agent Takes More Than Turning Off the Model",
-   "src": "news.lavx.hu",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMk51RUhjbkZtQnpMckpaYXFIaUxoZTZGeGlsT01tazhKbmEyemlPdjBxRUJwUjBNYXItU2l3QTk3Z0xrSGJxSllmR0N1OU9hbzRzYTZzWlh4b1ZWOHBZWlVXSVpTbjZJajBnTjdocnBVVHVxLXFka245SnBNdEtxVEpxdkdoVnp0Y2RkLW5kWHBiUGlvSUdN?oc=5",
-   "date": "2026-11-13 21:34"
-  },
-  {
    "t": "Jensen Huang's resignation, Chinese cyberattack and rogue AI: The conspiracy theories surrounding Microso",
    "src": "The Times of India",
    "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPS2U3dnkwTjJ4Z3NPMjNqV3BselFkZThZVWlKZkJkWmMxZG1iNkhjdk16cmtFd0c2MXVpSGwwZmx5OXFnNmZDNmI1LXo4a2ZVWnBzYi12UDlodFRTXzV6ZFVKbVppb19zaGNUUS1sZjhZTEhUclAxRjJGaHlnVWpFampKVUc2NzNPdEVfaVpqZnNERUkwZmtzWlJ4dTBKR2wyR0V0TWF1SFNtUjM2elpMOThoZlV1X0w1YTRua1E2QURaRmtyRGhpX0JlV1lTSDNtV3AxTWdGTUZoVnhmNWpMYXpieXN2cUVvYnRHNzhLdzJMTFNSM0tKWWgtcXJGN19GQlJUUjlkSktvbTVMOGZB0gGUAkFVX3lxTE42c1JIaU9iNkhfa1JkUnpqRk01X0ptQmdKSGVaTUE3a3AyMzRCMW5PWGpsbTRrUnkwU2dJWjRtcW4zZHQzU0hPSl8xSVM4ZmFHNkFOZWRUeFRlX1JnalpFV3B2ZERjMUY1enhGNWdWTEpnOFlkbFN5bkZyb1d5bjFMNmo4bmxhOXNfLTVBTG8xcVduUlFEUW54NWhGTThndGREYWdyMnRpc25RcmNWY05LdV9sSWd2eFVtSE5XUWJGTVRUam5TR0RxRllNSmZpcDBLSnpoallsd1pzcWIta1dvLUs0U0p5aU1sZG1vVlJ2VTMzbUJqMFBPUzR5Q3l6a051MEZGNFJnc19PQTNjU1pqalhNVg?oc=5",
    "date": "2026-11-13 15:26"
-  },
-  {
-   "t": "Microsoft outage: As cyberattack and rogue AI theories go viral, Copilot EVP Charles Lamanna reveals what",
-   "src": "The Times of India",
-   "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxNSDE5NjZJX2RQNlhvZUx0SW9vQ0E4UTFjTFFKUDluSXZuV2g3LVF0M2FGZm8xMlZQUXdMTVBXX2JuYlYtWlN2STc5dV92RGE1UmgwYVhodDZJZjd4dEdiaXNaUlJjVU1UOWtjNW1zUlV4WS1WVU9KMGpJTUJjZ2NST0d1dWRIa2dxMjctZlhOVVNvck4zdXhKaUZnQlRwekx3ZkVwOUEzc0ZqU2RSNDJHVG5uSVI2a0ZjbDFaaUQ1VVNrSU5Uc0N3Yk5YaEVia1VSaU8wdEdVcmc5NFhwYUZNc3FQVkNtQWlSTFJramNiVHBFY1RFTTdEODV2SldWdXJGSndiMUE4ZFRNMm53ZVQ2S3d2WGduOW5HdDMtMW9pYnpZN1hiTG5rc2FBZHZESHRwSU1UNWstOVBNNkowTk1XUTdIZDRaWjVoYkx2MnBpUEUxNldC0gHaAkFVX3lxTE5Ia2M5d2xvX3YxUm80amU0TEpKYkVndXd6NmtLdFU4X2xRRHM2TThyaHRfdEx5a0R6RXFwZlpvU2pxcXZnaHh4ZDRoazRHb2pfeGt5Sk9IZzhqTHB1dFBoREI4clhLRTJzRC1Jc0tiSXFuYlNrNEx3S2I4M2N3dWlfZWpKOTk0TVNXXzRfb2NPMEFIWmxUSTJNdERXb0dwbGphLWozRGxLQ2Q5NFVtdWlWdWZudXZMX05lSjBaYjNieW0tNndaSVRTaUd5OFFjbHZuYlVKRUQ1bUU0bkVSbHFnS3p4emt1UUpWRy05djdfeV9yUW01c0NTSGRVTXhRUGtEbldYc0JrUXFnYnhSdnhIeGNET016TXNYQ3NFa2ZsbF9ScEFUbjhWeGRfLXNoTjM4T3g1Z3o1di1xTXJxdVBra1dUSFBzZG9SaUZ2RHc3R2V6RXItZHJfOGc?oc=5",
-   "date": "2026-11-13 13:58"
-  },
-  {
-   "t": "Jailbroken AI Agent Ran Two-Week Cyberattack on European Telecom, Targeted 13 Organisations",
-   "src": "Convergence Now",
-   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPc3h4TmFJTERMc1BOYlZHUmFtQmdUeTE1eHlCN2doTHBBSXVrS0hocjhPSEg1VWhfdGJrMVVPOUE4Ny1QcUN3MU94Y090U3RtUkhRN3k1SEtTcHU2d2FLVVE1eG9nR3FTMzJlZkxaLVptNFhVMG5OczBSR0hFb1Z2NWxKdXVRRjVfU1ZXTm9rbnpDVHR6ZDlvbmJQOGdJZDhSM1Z6Y01XZTFrcl9peU9PVXpPd0pQTkhXODVKXzFHNUZtTFFpY0RLQ3RiRE9Cem12RXluQzhfR2VTc0dpOXRKXw?oc=5",
-   "date": "2026-11-13 10:36"
-  },
-  {
-   "t": "OpenAI Builds AI Kill Switch That Can Stop Rogue Models In 35 Seconds: How It Works",
-   "src": "Times Now",
-   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNczU5ZGRMRXZqRDRLQmo3VHBxZm9ENkp1Y2wtWUd4V1R6Q3FYcTZDWUlyRVkySndSQmFHd2ZJbnIyMFVaQUIwMlNFWDl6eXUtcS1idExqcXhJWUJ2Y1ctWXRUQkl0TWVuam1vbXlaTklhc0JaQ0h3a2tpLVYtSVpUd1dEY1N6ZW1Va3NhVHJZRVY5UE5DMDhGTnZKY2hUMUpEczcyV1VJbUc2RDVXbXdNbzRYVHJibEg0TDk5bVdRUGFuM3NzUVFwdzA3akp6VFRjRmR6alRrWU1TdDBjLXJCWERn0gHnAUFVX3lxTFAtU1hTZlNXTGF2aGc3RTYyM1V1Zkc2QXRPRGdYNVpsZWxCRFBBZy0zdE5WSEFsVFh3SjcwQVk5endKNXpHNTl2T1lrR18zMzRMcHBaU0U1VGM5cmRqSGlhS0NYM0VuaDk5NzZuNDNRMmZVdUdEQVQ3ME1JLWdweDE4cC03R2lLdlpSQVlreWNNbHhVMFBJN0lxRmtPSF9wV21zQ256M3ByLWdPOFZvN2Y5akdybDcyZkRvdVFGNFBQNVdlVDItQ1BEbFZBTGlEMXllTGNRWi1XdzZObUJ6TUJUMUZrT25sWQ?oc=5",
-   "date": "2026-11-12 16:23"
-  },
-  {
-   "t": "Tech bosses face criminal charges in Australia if AI goes rogue",
-   "src": "Mumbrella",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZVk3OVFKZ0Q1Zm1oVF9lckJQaEpMMzVLTmdid2JqR3ZudzEzWk8zM3dKVk5TYkJiQ2ZBbnhnZnBnT2hKb1Z1OUF0T3ZxQkxocXBod3ktN0VtMTBQU0J2Q3dtSkdNWXRFRmw5QnhHVGRlYndqRUFXYk14UEJJdUJEVXBJOWc0Qk16OFhmVzNLem8tNkFBZjlSVGNRcw?oc=5",
-   "date": "2026-11-11 07:02"
-  },
-  {
-   "t": "“Customer data leaked”: AI agents cause a security nightmare for companies",
-   "src": "Cybernews",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1Gb1dlQnlYbUs3RHRGeUpPTGxoRjRscHYxN1VFU3Fwa0RVdHhBNW9TdGJjUXVpQW5jeGhWYXRYQWJuQWd5dUhDdDY5MEFxa0hFd2xfVjVYekJzeGMwVnhGa0lRSkh2UQ?oc=5",
-   "date": "2026-11-11 01:44"
-  },
-  {
-   "t": "Half of Firms Report AI Agent Security Incidents",
-   "src": "DIGIT.FYI",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9PYkJSUFpSdVc1dFI1LUZJRktTdlNod0FXaG8zSDhlUG11aWNxSFZZdUxZSnlkdmFqRDRhLVJKRVVlMlZBak15VTRfOS1wT3lWVzE2RHlQNlBsRTN3VTI3d2N3UjU3WWFSUlBZeGxFa29YNzlQb0hVMURlWQ?oc=5",
-   "date": "2026-11-10 18:28"
-  },
-  {
-   "t": "Australia considers criminal penalties for rogue AI in wake of OpenAI hack",
-   "src": "AOL.co.uk",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdDJkcVQ5M1JINDEwMlRMb1MxOVM5WlR1YWVPR3dHSERxWmktdktoOXZvUG81am5JNEl2SUt3QjNHS1Y2ZmNyWFMxRE9yNkVrZV9YRGkzTjhiOHdkYXpRMll6a2hzZlU5ODE3Y3JONksyeU1FU1AyOUdTMllHczZxamxMMEQwSVZ6TGc1eXBCdFhHVTlu?oc=5",
-   "date": "2026-11-10 13:54"
-  },
-  {
-   "t": "Australian Government to Mandate \"Rogue Behavior\" Reporting by AI Companies After OpenAI Agent Breached Government Websites",
-   "src": "BigGo Finance",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBUMGs3QVl5Q1NSY0NDX3Y1blNoSTZIdmJZdUY4SW81LVNmX3RkS2h6V2VTc1NsbzR1MnJGQl9wMGd0d0Ntb19LNm54cW9KMmtGTFhfOE5CY01vZ1JKZXNTdWh0OUZ2V3FQMGEzcW41dUN2VUd0TGc?oc=5",
-   "date": "2026-11-10 09:35"
-  },
-  {
-   "t": "Anthropic Says Its New AI Model Can Solve Black Hole Mysteries. What Could Go Wrong?",
-   "src": "Gizmodo",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWUpwNENsd2F4ZThIYnFmRTZBNk55UFQ1dk1ZdG00REZINnF3ZTRpcThWNFlDY3ZsWUdKZDJmWVZRRWt1UDBfem9zelA5Y2xYWkpuNEpPNHBqaUxxbmp3UUtLQTc1cm1nVjYxNzlDQ1dSZXRCeHoxaGhhNXBiVGdZR0MtaUtvbWV3ejNVemZleHBCd0Q4T2JEVnZ4emp2VExicmdOamtnZVY5N0NmMHRyc2dpY3U?oc=5",
-   "date": "2026-11-10 02:32"
   }
  ]
 }

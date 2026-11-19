@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18 13:43 ICT",
+ "updated": "2026-11-19 13:44 ICT",
  "score": 6.2,
  "band": "LEAKING",
  "heat": {
@@ -25,7 +25,7 @@
    },
    {
     "q": "Will there be an AI loss of control incident that causes over $100 million in damages in 2026?",
-    "p": 0.229,
+    "p": 0.225,
     "url": "https://manifold.markets/waterlilly/will-there-be-an-ai-loss-of-control"
    }
   ]

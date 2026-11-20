@@ -1,11 +1,65 @@
 {
- "updated": "2026-11-19 13:44",
+ "updated": "2026-11-20 13:32",
  "items": [
+  {
+   "t": "Most security teams can't spot a rogue AI agent, says former FBI cyber investigator",
+   "src": "VentureBeat",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNWZtdGVDLUdCa1c2QmVPSm9lWWdVU0czU29GQ01TNzBfa0JmYXRkNFBoQzBFMmVsQjRlOVZuNXJudHZkNVVtdWtSYlA5dW5jWXJCNGpBbXJ3T3dHekdNZWowbDR4NXROQ2RtZzFDeml0VV94cUp3UFFlV180aFNhVmtSU2lrRW5NQ2k4ZlJaSnVvUWZ6QXNSeU5RQUVPRGpXeWVsa01rSkZiTWtXZWNFOU5KZkY?oc=5",
+   "date": "2026-11-19 23:41"
+  },
+  {
+   "t": "Meet Shepherd, the Meta-Agent Keeping Rogue AI In Check",
+   "src": "IEEE Spectrum",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE11MExYUVJuOVYyZGRIX0lwX0hSd1NPVlZYZDlHd2EzYlBkSUxwM0hiMkVQR005ajlLY3o0Q1RfRzVzVG80dktyQ2laZzlaal9Eei1lQw?oc=5",
+   "date": "2026-11-19 22:02"
+  },
+  {
+   "t": "Mitiga Launches AI Agent Security to Stop Rogue or Malicious Agents at Machine Speed",
+   "src": "PR Newswire",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOWm1TUzBOYy1YWU5BMnpqaF94MXoyN2ZLNUN3ZDdxa1d5Q1pFeV9NSWNtOFlRQzV4SmE5aWNHTjFqR1htaEZPUjB5cDVqTnY4OGZVSjlOV21QV1V2YlV1R09kRm4zTGlNRUV2eFZiVmFIRV9XV2RmdlFHTlBSbkJuMzZlRHp4bTlxTEdFd1JjQUp0STRaLWc1aXUtZXBfN0F3cTktTEI0bWs5Q3MtaGNtQU5kN2tZdkFfVldObXdwSjJPbGdkVk1pSzFQWGZYNVEtZ2tkbFdJZw?oc=5",
+   "date": "2026-11-19 21:00"
+  },
+  {
+   "t": "California Sues OpenAI Over AI Agent Cyberattacks, Citing 80 Incidents",
+   "src": "TechRepublic",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQlVBRjYwcExvcUxmbVdqRlNLVzAxUXZvZW9hdkZCUlZNMm9GSWZoRzdnNkF1R3pUNmhoSmVuQmI2c3NJV0tXY1Izck5xSWt0YlJTZm5TcE5GdVBRdUIzZGZ5eGNIeTFWOFhUdnNMMW16X19Na0RCSE5oUncwU19ud0F6cnVTbXVXdjViRFIzTTU?oc=5",
+   "date": "2026-11-19 20:18"
+  },
+  {
+   "t": "OpenAI Under Scanner, Faces Criminal Probe Over Rogue AI Agents Allegedly Infiltrating Banks",
+   "src": "Times Now",
+   "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPcnJoXzREMFE0cU9qZXdIMEphLTREQjFLTURvV3IzdTB3aHREQXl2S3FwT25WNnFJZmplS0lYZW42aHJ5a0Z2TmtzQW1VYUtMT2V0bk9wdWgzcVdEVThGWWkxQ1dxR0NuNDN5RmpCcG9LbnBKemt5eWNZNnpURUdSbjVlbHE3ZDZaTVhkbVl1emMwUlFQWEc5ZVZuSDBRNURfZ2FJUGF2VGxaSGpobjZSYnd2MnJDcFBwOXVkUl85NGtGZlJGUlgyZ3lLYm1Ua0RCdlI0dm54c21jcWd5MjRKY0UwUTVkNzV3OHFMSWk3N1lCV3PSAfMBQVVfeXFMT3JyaF80RDBRNHFPamV3SDBKYS00REIxS01Eb1dyM3Uwd2h0REF5dktxcE9uVjZxSWZqZUtJWGVuNmhyeWtGdk5rc0FtVWFLTE9ldG5PcHVoM3FXRFU4RllpMUNXcUdDbjQzeUZqQnBvS25wSnpreXljWTZ6VEVHUm41ZWxxN2Q2Wk1YZG1ZdXpjMFJRUFhHOWVWbkgwUTVEX2dhSVBhdlRsWkhqaG42UmJ3djJyQ3BQcDl1ZFJfOTRrRmZSRlJYMmd5S2JtVGtEQnZSNHZueHNtY3FneTI0SmNFMFE1ZDc1dzhxTElpNzdZQldz?oc=5",
+   "date": "2026-11-19 14:33"
+  },
+  {
+   "t": "Arizona Probes OpenAI Over Rogue Agents, Names 0 Banks",
+   "src": "shattered.io",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaUFCdng0TjFrVm9jZFhNXzl0U3NwNnJXbGFIVWNNeUpHRVk2dmRHMHBpRE11ejE2Tl9YX3VzdFdOSGk0Zkx0Q0N1RDdtMzhUYXFoeGg1cGlHeG5KUktiUEgtV1hyckZMN3BYaUR1WTE1UUtQWmFGbzhDZV9xa1VCMmlwUzVzLVNVMFZpWW5BbEs3b08yOWtr?oc=5",
+   "date": "2026-11-19 14:01"
+  },
+  {
+   "t": "Morgan Stanley’s Hornbach Says Rogue AI Biggest Underpriced Risk",
+   "src": "Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcTRkWGUyQ3lZeFh6dFF6TEpuUXRET1pCSmFSZWJGa0pHUk9RU2RfdnhSSFhCalpHYWxtZTMzRHRTbXdqbWpMZjQwRWhQeHJyTnUwRW9xU18tY0ZJeXpqanlJNXhfNE9VSnNxREk3czJCczIzaHA3QllOTjhnZjZpcUtSTDlPV0p4TVp1WW5xSVF1clduU2FNQTBNdDFLQ2x1OTBldWtaeFl6dDZ5NnpTZjZvVE1yQQ?oc=5",
+   "date": "2026-11-19 08:00"
+  },
   {
    "t": "Who's to blame for a rogue AI? New legal framework maps accountability",
    "src": "Phys.org",
    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE94a1g1ZmRBTnN2V3J0Y2NVaXc1UzR2bHJTTl8yMkE4VHFUX1pkMFFfcE9EVWt4cDJ5aDFiVTJFbFgxdmlRTU9tUnl2X2U0TEw4THVITDVueTdsZF9xUGVOckVQbTgtNm9SN2NyQ2lsZVh5c3M?oc=5",
    "date": "2026-11-19 06:00"
+  },
+  {
+   "t": "/C O R R E C T I O N - Evoke Security/",
+   "src": "PR Newswire",
+   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxObnI4dE8tdjBlSnh6Tld1cTEwQm01YlNZU3V0X2JGbHJoTWtWTGVIanJYaGlCT2lTR0hDbTVMU3ZCc0dNYkN6REduMEs1ZmZZR09ITVVjQ1JqN3A5akFBSExXTl83ZFJTb0VBZkhPOGlfRV9kNTN2c0RoUUk1aVNOS3dOX1Z1OWxYbmNOOU1YeGNvX1hHWlRicUJWOFotMTdLUXRoWTBYTC1LS2k4SDRDNmZBSDUydVhKdWdSWDJvVm1qNFg3MXhlQ1dGMkhpdnVsY2tHLU5hek05NTZ1V2otNmxmMWwyZ1E?oc=5",
+   "date": "2026-11-18 22:09"
+  },
+  {
+   "t": "California Sues OpenAI Over More Than 80 Rogue AI Agent Escapes and Real-World Sandbox Cyberattacks",
+   "src": "Andro-News",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPXy1QWDFBUHFvYkZYVzlEblg2eDREWXJZclF3bHZnUUg5dy1tdnY1RThhWlV6X2JiRF9BOXNUeFN4c29WUG1SQklEbWNyWWUyQ1hSMXJHQUljTThuR1pKNzVQZFN4cDZ3UGRVNGNkdzlqdGphUF9kYVNvSmc4c3ZGWFctUWJTd3lob1lKckFnbVI1aHBQdWFleFpOT2dCVTZMNmNUX1B6aU9TWVZkdHZNYjhFbTVPajJobU9NbUhDdHVRLXJZ?oc=5",
+   "date": "2026-11-18 20:36"
   },
   {
    "t": "California Sues OpenAI Over at Least 80 Rogue AI Agent Cyberattacks",
@@ -32,64 +86,10 @@
    "date": "2026-11-18 11:21"
   },
   {
-   "t": "Anthropic says its AI models hacked 3 organizations on their own during tests",
-   "src": "ABC News - Breaking News, Latest News and Videos",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQX3ZqRkZfWUw5X3dBbVVkUzh3NGVXTXdrOEIwOVRGUHdTeTRaaURSWS1DYVA3aXdUREVFeTM1ZnF0Mm91bzJTb0R6OWR3a0VwaFBPQmFqeVRuQjdrUFZSSFpmbjMzSGZEX2xCeE84c3A2Q3dpRnlEcVZ5MFhLVUE5b0lwUml2eWFacWZDVHJsaVh5VVJMZjZRdmlNSWlkQW1Wa2Rkb3Jn0gGrAUFVX3lxTE9RRnJFaXBvLVJUT0NMMXRtN0JscFBCQTIzRHlQUFdYMjJ2bnZkQ080WGZQYUtqTGNaZTZidWljbFhnNklKVGFaWXBLbXdtV0xkOTlYcnhFOUxMYU1vUnJMclpyR21nYTBLUDh5UURFTy1MbGRUQThiWXNLSVVMWkZJQlpwWTNJQUpGM3dyVGNHZmp6Y0E0R29FaWtkd25sczZ0RktJRTRXcGVkNA?oc=5",
-   "date": "2026-11-18 06:06"
-  },
-  {
-   "t": "‘You Don’t Want Rogue Agents’: Jamie Dimon Shuts Meta’s Muse AI Agent Out of JPMorgan. What It Means for META Stock.",
-   "src": "Barchart.com",
-   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQWnVuTHBtMHBwdV95Q2hjemI1dmE0bGQ2YkNjNVUtcGNNOE5pRWNFenhUbThJcmF3QkxIalI4SWx3UGlPS3VvVHpYN1ZZd0phR043dzZTcTZuaUY4eWcyeDJ4Z2k0VnVnNmpnZkVlejZ6SzdEdDNJM05qZ0hoQ0JDVTY1dnE4eTM2cVdHYkVjU0FUODNnczRudDc0TmNoendwallmdTRxU2hjdy04Zi16SWVTY3dvSFZsU1VWUzRSTkNidTVGb0xjVjBWZFNRdEtQdWdwNVhlc3lTV2ZXMmtscXFOXzNsLUV6?oc=5",
-   "date": "2026-11-17 23:00"
-  },
-  {
-   "t": "California Sues OpenAI Over Rogue AI Agent Hacks",
-   "src": "Dataconomy",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVkRkdFMwY0dWVjBORjlYZGo0UGpBQXctZFpNTEF5UlBQSF9mcTRKcFkyNVBZQ1kyMEpQSndnRDdHR0J1dkRPTjY5VzZ3SjZhYy1OR0F1NnFjZXE2TDBNTW4zSTM5cGNSS254dFZ0REZKRC1VX19PS0xFaTdvMF9yYXd5Mnl4RlRKV180?oc=5",
-   "date": "2026-11-17 22:45"
-  },
-  {
-   "t": "California Sues OpenAI Over Hugging Face AI Agent Hack",
-   "src": "Equitypandit",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMmFSZTFpanJkNDd1WE5nZXd2RVBOeGdsdGl4QkpGaGhrNmhhM1kzT0t5c3FFQjBSSlFjWmdWZy1iOEJ0aE5tT1ZEUkw1QUR5UElXQ1R5SFRIRW1GejV6c3pWcnBRTkVvUkRWaG8yQzJfbVozUmhid2RhZ0s4eS1zQ29GS3dKQkVBY08yQQ?oc=5",
-   "date": "2026-11-17 20:03"
-  },
-  {
-   "t": "California Hits OpenAI With Lawsuit Over AI Sandbox Escape",
-   "src": "SQ Magazine",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE52T0dtTGlteW04Z0pHV1JyeGxrWGp3Q0o5R0xyT0xuYV91ZmZFS25HaVhsVXNxVUdyZ2xtYTB2bnlLdzZTQU9fN3ZrVXdORlNOejhMTTBfdm5ad08tRlNyM1FJcGhudXN1VVFRZXktOTFyaTh1d1pKeUQ2OA?oc=5",
-   "date": "2026-11-17 19:44"
-  },
-  {
-   "t": "California Sues OpenAI Over AI Agents That Attacked Hugging Face",
-   "src": "Technology Org",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWEZhdHBQc2JuOTRXaVFOZGdaVzE1ODd5bzV3ekptYk1PLUtUU3FnX2V1U3A2TVQta3pPVDN2blFxajBkUDhRMXM0aWw3U3h4UU5lajljUEZRVzVCX3lzTnhIR0xGUVZMZ2MxdzNNLTFKZ0VTRi10Tk9ScXFOeUVFUmowMERRdFA4Y0hnd0dfOXRfcEt3THFjSjUzcjRoZw?oc=5",
-   "date": "2026-11-17 16:58"
-  },
-  {
-   "t": "California sues OpenAI over AI model’s alleged rogue attack on company systems",
-   "src": "联合早报",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPREVYMDVsSHM0VkU1RjhxTXNTQVN3X2pRcW1mSHJ6NnRCSnVBQURFWGNsc1JzUEg5R002UWcyN1ZaWExmMEZmWTl4N0NyU3RpekFFdnF4Qkt6Y3p6bFItS3UxTVk3MGFrVmxONG41SjJ4bXhITkZ5OXEycGdxWGkxVk1DYUpPZklHLWhKWERvMGNqdDJvdmpxZzFjYnM4TXRyWC02b0xKandpdnZVZUR3dDNiVlY?oc=5",
-   "date": "2026-11-17 14:54"
-  },
-  {
-   "t": "California Attorney General Rob Bonta Sues OpenAI Over Hugging Face Cyberattack: 17 outlets compared",
-   "src": "NewsCord",
-   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOTV9LWkNmVVZsN1g0QnFmS2h6Q0N5bEVjQ1lZVmMwRTZpQTM5YTYxQ0tYZW5nalJmS0gwZVhuckJ0eGRkNllYX2FWMWR5U1ZaTHRaUUZGQkE5NjlhNXVlbWtXR1AwdzVMa0E2SmpFOXBjZkR0UWdISmJfaUEwY3Z3dUY4dHJldEpOWnZsOXU0c1pITnA4QmNtNHFmbktlQ2VpVG1leGZFNHZyME5MTzNYNENfOEhHRG4tQ0VGRkhqOVFpUjJNOVRGbkw5d2J6YndObkNWTWVwTXp2LW4tcDVpOFV2TUxhV19M?oc=5",
-   "date": "2026-11-17 06:19"
-  },
-  {
-   "t": "Rogue AI agents: A new accountability challenge for corporate leaders",
-   "src": "Retail Banker International",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbWNkdXV3QVh0WkRMemRKWlg4MjNneHNUejhIaWtTM0toa2pqd0Z3V2I5ek8yejFVRGR0M2RTeF9EUm9xQnBLRkVBVE94dU9KaTFORkl6MmZFMlZYOXRiMWktenNkZnVJLW9qbjVVbXhCNV9Ta1MyMjU1d2txZkxFdm9hS09GVkQ4dl9fVVFPTGd4cEJ0Q1dfTDdKQlYyZ0ZfOUZWYzBWb3M1NlNQNk1ET2RpSm1TS2tTcGlwcg?oc=5",
-   "date": "2026-11-17 03:57"
-  },
-  {
-   "t": "California is suing OpenAI over its ‘rogue’ AI agent hack",
-   "src": "Lookout Santa Cruz",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNYVFkYlRVY0JwOHMyTkdyUzZRc2F5Y09DYy1XalR4MDJLaXR3OWxqVWcwMkhtbHNrYkJnOXRQY0V6OTlzcm52aU9DTHRVWnZ3aFRFXzVvZWlUOTMxXzZtVzRiVWMzTmZyZlF1alRndXdXeVExRmx1OG4weVdOYUh2a1BaZ0djOTQ?oc=5",
-   "date": "2026-11-17 02:00"
+   "t": "California’s OpenAI lawsuit says AI agents escaped testing 80 times",
+   "src": "DNE Africa",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1sQ1hLcVJYcXZ4Zlo2dFVBWUxRaGo0RXVHVHI0bmJhWV9JbkxhVW5zZ1pXR2ZNNzdLbjNzaVVlZmYxOV9SYUlHS1dCUGFsWjdFYmtDUHBYdW9UenZ0UExBX0FtZTdzbjNyLUs4dWoyOFNZelgza2l4RTZn?oc=5",
+   "date": "2026-11-18 06:23"
   }
  ]
 }

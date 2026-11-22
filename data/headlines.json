@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-21 13:24",
+ "updated": "2026-11-22 12:54",
  "items": [
+  {
+   "t": "'Rogue' AI agent went haywire at tech company. The CEO is still 'bullish' on the technology",
+   "src": "ABC News - Breaking News, Latest News and Videos",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZFFmb1kzMDlmOVBhcXh6aWJtd3c0WDdxaDFfQ05tdVJBZHJNRlFLSG1RYTRnb0N1a1d2SlQxbFJjYkRkQWJMUGhDYktmemhTVGFCSzQ3bHZURmZwMmpCbHI1MkhhQ3AwS3BKcE9mblhBVnNfWDRnVVBIX0tmMkJ6MVVOcnR1cXJmZWJJWThwSElKZUI4SmpLUnJLSdIBoAFBVV95cUxPMXFLMjFFOWJkUzlyTmJILWZ3UjhfdEZ2OXlzbGJEZVJwaklnc3dRZzQ4SV9lUDJBc0YxdjY0Z2xTaXNCV1VEcE85Q3BMVVY4Y2lFXzU5Wks0ZXB4c19rVG9TaTZNLUxqSkF2a002akx6ejFHbXVVOGRzc1c0UDZraXNaTzgtWmRzamFldi1zYU02ay1zRUN2X19qS005enZm?oc=5",
+   "date": "2026-11-21 07:26"
+  },
+  {
+   "t": "Treasury nominee noncommittal on responsibility for rogue AI agents in accounts",
+   "src": "FedScoop",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9Oc2hTUDZwSV9OZUM5aHplbHRhZ1B6YTBoenhDSDhGVWhNd0t0TEFKSU1nVnpMZmN1ekdkZTJCUVF6SWdTUkxZcXlROHdnSHpuRHlLOXpUTFBNTkxPSHVqeG1SMzR3UFdQRlpDTEdUYw?oc=5",
+   "date": "2026-11-21 04:11"
+  },
   {
    "t": "Most security teams can't spot a rogue AI agent, says former FBI cyber investigator",
    "src": "VentureBeat",
@@ -11,7 +23,7 @@
    "t": "Meet Shepherd, the Meta-Agent Keeping Rogue AI In Check",
    "src": "IEEE Spectrum",
    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE11MExYUVJuOVYyZGRIX0lwX0hSd1NPVlZYZDlHd2EzYlBkSUxwM0hiMkVQR005ajlLY3o0Q1RfRzVzVG80dktyQ2laZzlaal9Eei1lQw?oc=5",
-   "date": "2026-11-19 22:02"
+   "date": "2026-11-19 22:03"
   },
   {
    "t": "Mitiga Launches AI Agent Security to Stop Rogue or Malicious Agents at Machine Speed",
@@ -78,18 +90,6 @@
    "src": "SQ Magazine",
    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE52T0dtTGlteW04Z0pHV1JyeGxrWGp3Q0o5R0xyT0xuYV91ZmZFS25HaVhsVXNxVUdyZ2xtYTB2bnlLdzZTQU9fN3ZrVXdORlNOejhMTTBfdm5ad08tRlNyM1FJcGhudXN1VVFRZXktOTFyaTh1d1pKeUQ2OA?oc=5",
    "date": "2026-11-17 19:44"
-  },
-  {
-   "t": "California Sues OpenAI Over AI Agents That Attacked Hugging Face",
-   "src": "Technology Org",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWEZhdHBQc2JuOTRXaVFOZGdaVzE1ODd5bzV3ekptYk1PLUtUU3FnX2V1U3A2TVQta3pPVDN2blFxajBkUDhRMXM0aWw3U3h4UU5lajljUEZRVzVCX3lzTnhIR0xGUVZMZ2MxdzNNLTFKZ0VTRi10Tk9ScXFOeUVFUmowMERRdFA4Y0hnd0dfOXRfcEt3THFjSjUzcjRoZw?oc=5",
-   "date": "2026-11-17 16:58"
-  },
-  {
-   "t": "California sues OpenAI over AI model’s alleged rogue attack on company systems",
-   "src": "联合早报",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPREVYMDVsSHM0VkU1RjhxTXNTQVN3X2pRcW1mSHJ6NnRCSnVBQURFWGNsc1JzUEg5R002UWcyN1ZaWExmMEZmWTl4N0NyU3RpekFFdnF4Qkt6Y3p6bFItS3UxTVk3MGFrVmxONG41SjJ4bXhITkZ5OXEycGdxWGkxVk1DYUpPZklHLWhKWERvMGNqdDJvdmpxZzFjYnM4TXRyWC02b0xKandpdnZVZUR3dDNiVlY?oc=5",
-   "date": "2026-11-17 14:54"
   }
  ]
 }

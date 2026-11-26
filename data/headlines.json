@@ -1,6 +1,24 @@
 {
- "updated": "2026-11-25 14:47",
+ "updated": "2026-11-26 14:38",
  "items": [
+  {
+   "t": "Companies beefing up security to prevent AI agents from going rogue",
+   "src": "Yahoo! Finance Canada",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZzhpcUVsZjBsb2lYRmlGcW9QWkpkU294UUM1QWJUeEhFZ2VaU1ZvVm8yT0Naamg1WHJYclN1M3Jxd1JzcGRlaTFUNnZJcHQxZDI0WkVfYjhOdHE4MmhYZDZrWXZYRmdFbDJ4OWxZUTZjcEh6ZUhOMkJCOEpFYi1jOHhfeFVoQ2s2b04tTmpmOA?oc=5",
+   "date": "2026-11-26 04:37"
+  },
+  {
+   "t": "California Sues OpenAI Over 80 Alleged Autonomous AI Agent Escapes",
+   "src": "Dataconomy",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdFpvODk0VlY2TXpnci14N0gyLXpfdDJWQ0VBekJGS1FGYXJidXRBTHY4YUFkSEctbVI2OW5rbzJFVEV1dDFOcWRncGZPZVlldXBPYndUTDRQVG5lcjROd25OM25kWFp4Um1Wamp3bFZINXpRVkF1SVJrZ0JFSHdRSUJPNDlpZnRpZm1kaWlxbXk4QXNlR1N5aw?oc=5",
+   "date": "2026-11-25 16:30"
+  },
+  {
+   "t": "Former OpenAI Board Member Warns No 'Kill Switch' Will Help If AI Goes Rogue",
+   "src": "NDTV",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQVY0b251MEFvNFZwSEpGOWU4SlBLS2xGcnIyNUR0ZGNLQU0yLXNZRWN6NXpkSXdNNGRHYTRMLW8wWHR6a2xzbDNFY1hhbVJYWjNRcjQzWGdCQmlWdC1XbUVYNWpWdUxGYWtlQXBCTWFKeTU5U1RfbkEtQ3FfTUpkcmRSOVlOcV9DMV81aUhSaWJHSkgwVzBJZUFMY3BVQzl6VjM3ZWlHNkwxanZoaE5DeWJB0gG6AUFVX3lxTFBmOVRCN200b0dHSE53UC11eVkwM2RvVkhvMmQtM3ozYlJEZ1RLcC1DNjJ2eDB6RnMtRzV3VXhWMVlwclh1Skpzc0VmeUlVVXJYbkY0dWFNaVBCc0xHRVc5bVMtajh1WHFDVlprY2NDaG9DblE3dndnVzdHNnRBQi1CY29rMUpEZ0QzOUxmTWp1UDE3UEJzQjYzd3BkdnowREt5c1dRTHo3X0M2T3NGdzBaeUk0azZsblZQQQ?oc=5",
+   "date": "2026-11-25 12:18"
+  },
   {
    "t": "CrowdStrike’s Zscaler deal aims to give security teams a single kill switch for rogue AI agents",
    "src": "VentureBeat",
@@ -38,6 +56,12 @@
    "date": "2026-11-21 10:59"
   },
   {
+   "t": "Is a New Apple AI Agent Arriving on Our MacBooks and iPads?",
+   "src": "CXOToday.com",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeWhTRGVxeVQ2M2xNdWFQcFJMelVxS2Z2TF9xY3FoYnRQYjFGUGNDZmZwTWxYaF9sQjBWaUlHMmpkMWhlZ2tfbWIzN0lrSzE4SVJpMlAtbDRXSUZqV01zSjIzWWptdEFVX0pIM3lyUGU3M0ZVeWUxdUh0Q1JfdHNWTk5Gd04tQlo2TmpR?oc=5",
+   "date": "2026-11-21 08:17"
+  },
+  {
    "t": "Treasury nominee noncommittal on responsibility for rogue AI agents in accounts",
    "src": "FedScoop",
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9Oc2hTUDZwSV9OZUM5aHplbHRhZ1B6YTBoenhDSDhGVWhNd0t0TEFKSU1nVnpMZmN1ekdkZTJCUVF6SWdTUkxZcXlROHdnSHpuRHlLOXpUTFBNTkxPSHVqeG1SMzR3UFdQRlpDTEdUYw?oc=5",
@@ -50,46 +74,22 @@
    "date": "2026-11-21 02:34"
   },
   {
+   "t": "Who’s to blame for a rogue AI?",
+   "src": "Daily Democrat",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9nYUlRQ3g3QkpPZGU3OVJ5cWhHWERjTnhCWGJhbmEyTEdLM2VpSXo0b1pjWE5VejN3WXJPMkZQd29TQXdxNGJQU0NROEFBdTFpWEFXM0NJV0VmaDZ5dnZYcG5tUXhLdWJZV24wRENGVEdTX2RwMXZIeVhR?oc=5",
+   "date": "2026-11-21 00:01"
+  },
+  {
    "t": "Major US banks say all AI agent actions are user authorized, even mistakes",
    "src": "Yahoo Finance",
    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORHpXV19tZmowWG04aTVLc185WkIwNXVFdEVMWlZieFY5ajNRb05PX1E5NTk1RVNZSWpITnJWZnBsdnhIS0VoYkdsbkNSZHpjV2dFQThnYkkyWFlaY2h3ei02bVhrTUdhRURJVjBhZnBTaTFUNWM1OTBEMjl1dW9pcmJBRkNzdzVrWWtyMlBTVlc?oc=5",
    "date": "2026-11-20 22:46"
   },
   {
-   "t": "STM Keenan Lecture 2026 – The future of AI: end of all human life versus knowledge explosion",
-   "src": "Catholic Saskatoon News",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9UczVYd1BLSlR1eXBWcmtqWm9OR3hFXzhDZ3FfNEt1RDNXcnRWaHVXVV84cFdfTk41QVdCUGdjZFFQTVFvc2RMdGxjeFkyaloxRVlrcUtWNTBuTVBnNWc2dzJyNmNfLXFwM0ROTEpGRzIxT2tGSWJFUHhB?oc=5",
-   "date": "2026-11-20 11:18"
-  },
-  {
    "t": "Most security teams can't spot a rogue AI agent, says former FBI cyber investigator",
    "src": "VentureBeat",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNWZtdGVDLUdCa1c2QmVPSm9lWWdVU0czU29GQ01TNzBfa0JmYXRkNFBoQzBFMmVsQjRlOVZuNXJudHZkNVVtdWtSYlA5dW5jWXJCNGpBbXJ3T3dHekdNZWowbDR4NXROQ2RtZzFDeml0VV94cUp3UFFlV180aFNhVmtSU2lrRW5NQ2k4ZlJaSnVvUWZ6QXNSeU5RQUVPRGpXeWVsa01rSkZiTWtXZWNFOU5KZkY?oc=5",
    "date": "2026-11-19 23:41"
-  },
-  {
-   "t": "Meet Shepherd, the Meta-Agent Keeping Rogue AI In Check",
-   "src": "IEEE Spectrum",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE11MExYUVJuOVYyZGRIX0lwX0hSd1NPVlZYZDlHd2EzYlBkSUxwM0hiMkVQR005ajlLY3o0Q1RfRzVzVG80dktyQ2laZzlaal9Eei1lQw?oc=5",
-   "date": "2026-11-19 22:02"
-  },
-  {
-   "t": "Mitiga Launches AI Agent Security to Stop Rogue or Malicious Agents at Machine Speed",
-   "src": "Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNY29HQk1jUTRKTXhiMVFrSmVkcGZoMXg4STNDTUM1NHB2TXp6S1NLY1ZzZVc1aDB6TzIycWtCX2RpeHFjVTM5ZWl2Z3dvMnkxd3dtVElKVm1ISkh2SzBuaWFveHk0Tzk1ZjNhSTBnN0F3RjlNM0lDRkROWEpadkNwSVMzamxISUlNSkRqclhwSDFlRjZhWlNHbTlNWEQxUQ?oc=5",
-   "date": "2026-11-19 21:00"
-  },
-  {
-   "t": "Who's to blame for a rogue AI? New legal framework maps accountability",
-   "src": "Phys.org",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE94a1g1ZmRBTnN2V3J0Y2NVaXc1UzR2bHJTTl8yMkE4VHFUX1pkMFFfcE9EVWt4cDJ5aDFiVTJFbFgxdmlRTU9tUnl2X2U0TEw4THVITDVueTdsZF9xUGVOckVQbTgtNm9SN2NyQ2lsZVh5c3M?oc=5",
-   "date": "2026-11-19 06:00"
-  },
-  {
-   "t": "/C O R R E C T I O N - Evoke Security/",
-   "src": "PR Newswire",
-   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxObnI4dE8tdjBlSnh6Tld1cTEwQm01YlNZU3V0X2JGbHJoTWtWTGVIanJYaGlCT2lTR0hDbTVMU3ZCc0dNYkN6REduMEs1ZmZZR09ITVVjQ1JqN3A5akFBSExXTl83ZFJTb0VBZkhPOGlfRV9kNTN2c0RoUUk1aVNOS3dOX1Z1OWxYbmNOOU1YeGNvX1hHWlRicUJWOFotMTdLUXRoWTBYTC1LS2k4SDRDNmZBSDUydVhKdWdSWDJvVm1qNFg3MXhlQ1dGMkhpdnVsY2tHLU5hek05NTZ1V2otNmxmMWwyZ1E?oc=5",
-   "date": "2026-11-18 22:09"
   }
  ]
 }

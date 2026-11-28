@@ -1,11 +1,65 @@
 {
- "updated": "2026-11-26 14:38",
+ "updated": "2026-11-28 14:04",
  "items": [
+  {
+   "t": "Russian AI model fills void in unfinished Gogol novel. Not everyone is happy",
+   "src": "WTAQ",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQk1SQmk1blFMODlBU0RlalpTLXo0S0s3bzVucGVvc0NDUmY0X1pZSE9Xc0ZyYXlpWm91MXh1bll5LTRmZm5RUEpLX1RPZ3FoNXdmdFN3djJkSEJMUG5DdmZXOFhWTThmQlhlTnA1QWZwbThvcDUxX0hKWmpwLW0xSi1nc2t0UDkyZTBzeV9EYkxxdlFkaFhsME1BblpzdDFDWVMzZzFMcw?oc=5",
+   "date": "2026-11-27 14:26"
+  },
+  {
+   "t": "New Mexico authorities search for pregnant woman who escaped during prison transport",
+   "src": "Toronto Star",
+   "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPaTd2ckVFbllkVVBzMjg1N0piZEdhMG9ZY3hjWC1uSVF0VmFnTmxNcDNrSFVZeFBXdG1NbEVsdVB4T3FHUnNpUXVGUnBxVlZFTzZ5Wm1FWWZBWTZyM2dKU3h6dkJBblRRZEYxd1V1cjVha2d0MVlleGFja1RnNWI2dmt3WmZFUFd3TE83N1dIZ0JvU21lUUpUbGpSLW43Y0NWbV9mV3J2QnM5WlNWLVlBd0QyMVRNelUyUW1MYnFvT2RCNzUxbnA2REEtWDNJcmEweExONDFnQVdBNEU2a080NzU0RmY0SWVuMzlGT1hGWG5IWGdDVnR6YXVjTHE1MVFINnNaUFZmSFg1REItS1MyTg?oc=5",
+   "date": "2026-11-27 07:35"
+  },
+  {
+   "t": "These AI Agents Are Clawing For Your Data. ‘The Dog Went Rogue’ Is No Excuse",
+   "src": "The Daily Caller",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcklnUkx4STZtLWFodk9UWUE2UzgxNUpIR19xdXJZNkt3ZzFlaDBsLUI1ZHBNUmlwSjhJOExzNUxkWURsa3JueTdVRnRQVzBuOXJSdHVxdXJCRTdTc3EteWVLMUYtOTl1OWZSbFNEWHlRWVlYUXNvN0hld1Z3d01lUGhzcWhQdWxmc2RiSEN3?oc=5",
+   "date": "2026-11-27 00:15"
+  },
+  {
+   "t": "Anthropic Siren Test: Sandbox Escape Results and Fixes | AgentsPulse",
+   "src": "GitHub",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9tWlhad21kVktOclN3T0Nvb1d1akc3dmlKM1YzOU1wVy1BNnV4cmhqT3RpdV9UWTFfQUdaN3VRWjIyTVlsRFV0WU93bzRvSnprZWJfSTNmTDJzVXJVY2ZhcFZiTDA2NURZcGJFZ0R3?oc=5",
+   "date": "2026-11-26 23:00"
+  },
+  {
+   "t": "NordLayer AI Scout report: One AI agent reported its own leak, another found a way around corporate restrictions",
+   "src": "Yahoo Finance UK",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRnRwTkVsS2xMTmVIUXNQZVExWk9BMGhKdVB3bENQckpjMEVzNkpZUk9XOUpiZGFrRzV2NHNzaXM0OERPNGp2d1JHTXB4ZUhPRWVMN1VBdWFXX0pVbWJDLUdTMElKZWRMMlFHdHZweGlaV2IxLXc3bGlUOF9PXzVZN3N5X3o?oc=5",
+   "date": "2026-11-26 20:10"
+  },
+  {
+   "t": "SailPoint sets out 2027 identity security predictions focused on AI agent governance",
+   "src": "Australian Cyber Security Magazine",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOQ3dGZzJpOWUtQ2wtZ0lOV25ZZHlhRzRvbUVYOFNoX2lKbHNQYjB1QUpRNE50RWZlbE9rS1V5TjZmcUh5WVl1aHF1RnltNEtfWGg5OThEeW9PQTczRHUteVR6OHFDR1RFOW9qM0hRbWJXeDVXcHlPTDExQlEwMF9PRkRxZE9Ta1dIN0kta3hUVDhRa1h3SlNUTUxIaUc2aHhkZTVXczdnYnB1ZEdCZXZVWkpVNzQxU0NOSE5rRXZsLVQ4b3ZhczVDVS1UOEY?oc=5",
+   "date": "2026-11-26 07:50"
+  },
   {
    "t": "Companies beefing up security to prevent AI agents from going rogue",
    "src": "Yahoo! Finance Canada",
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZzhpcUVsZjBsb2lYRmlGcW9QWkpkU294UUM1QWJUeEhFZ2VaU1ZvVm8yT0Naamg1WHJYclN1M3Jxd1JzcGRlaTFUNnZJcHQxZDI0WkVfYjhOdHE4MmhYZDZrWXZYRmdFbDJ4OWxZUTZjcEh6ZUhOMkJCOEpFYi1jOHhfeFVoQ2s2b04tTmpmOA?oc=5",
    "date": "2026-11-26 04:37"
+  },
+  {
+   "t": "SailPoint warns 2027 will bring tighter AI agent controls",
+   "src": "SecurityBrief Australia",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOYXR6ODIzUzQwc0NDNXdGS2tBVGJFZ2hNY2FubEFUNm5MTFpHcU5ON2xzMzNLRGFOaGpSTDdGM2l5SFNPZTlIZEJPRFpMb2FLeXdUZWtuU2xBR3N0WUJZWHZwX1Y5YTNTS0x4Sl9vRU5Qbnl6VFVMd01STTNZWUQtNlgzOEZJWHhCNHZGSTlseGx0ZFBtbFdJ?oc=5",
+   "date": "2026-11-26 04:30"
+  },
+  {
+   "t": "Ransomware Group n0n Claims it Hit Financial Industry with AI Agents",
+   "src": "The National Law Review",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMjNaQ19GalNic3plXzNwcENiTGNEOHdtY2hyd0pTWjhnaVYteS1RWHpzUFVwRW4xcU1jQTFERmNZMnA4blBvVjFkbzhDY1JISnpQS2R5aHN5YV9ObUp5ZHF2ZHVlZ0F0cTZaZVdTbG1SOW4zYkdxWGotSEVtNThidVlaS2w0RmlIMVItZFlUaGprcUQ1VzZyQVZDdDh6b1BjaXfSAaIBQVVfeXFMTTIzWkNfRmpTYnN6ZV8zcHBDYkxjRDh3bWNocndKU1o4Z2lWLXktUVh6c1BVcEVuMXFNY0ExREZjWTJwOG5Qb1YxZG84Q2NSSEp6UEtkeWhzeWFfTm1KeWRxdmR1ZWdBdHE2WmVXU2xtUjluM2JHcVhqLUhFbTU4YnVZWktsNEZpSDFSLWRZVGhqa3FENVc2ckFWQ3Q4em9QY2l3?oc=5",
+   "date": "2026-11-26 02:51"
+  },
+  {
+   "t": "Claude Sandbox Escape: Anthropic Siren Test Shows Six Prompt Rules Cut Outside Reach 68% to 96%",
+   "src": "Tech Times",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNYUdxRV9LYUNzM1NMZTZCRUh2djhoclpSejFHZHJUd2NfSTFieHh3ZVcxbXRyZGxJWmh0Wml5RDhTZ0doN0pJMUdEcnlxYzBEVVNjQjZoV3NHSlJJM3lSRm5xVHE2SHpldWNFV0MyTVJhOGlPQTJrc3p3elFiWGt1VC04VXFQTDFzSndzRlp4OGFwZGNRSE5YV0J5LXN6SzBnME1qTFpnRnNUVTFxRDNHdmttQkE5YmNUaHJPUHVnczNCZHpHYXhGcXFfNnVnTzJFeE9ZcS1NYlR4Z3lq?oc=5",
+   "date": "2026-11-25 19:14"
   },
   {
    "t": "California Sues OpenAI Over 80 Alleged Autonomous AI Agent Escapes",
@@ -14,82 +68,28 @@
    "date": "2026-11-25 16:30"
   },
   {
+   "t": "California Sues OpenAI Over AI Agent Cyberattack",
+   "src": "openclassactions.com",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPR2NDUFdqQjZfaXByMlB6VUt6UFRSb0FPOFZXa2VIZTBWUDBQZl84MWl1cW12WE95Z2lEMXNyS3ZmVGh6Y25hcjdoVkwyalNkUVlDbHJGNEtsc0FiWHp0Q0RtcjVTeUpNb29WNmZ2Mi1kV3NRMGlmQ0M3SklaZ3BoOGJCWFJFTlZ6cG1r?oc=5",
+   "date": "2026-11-25 14:34"
+  },
+  {
    "t": "Former OpenAI Board Member Warns No 'Kill Switch' Will Help If AI Goes Rogue",
    "src": "NDTV",
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQVY0b251MEFvNFZwSEpGOWU4SlBLS2xGcnIyNUR0ZGNLQU0yLXNZRWN6NXpkSXdNNGRHYTRMLW8wWHR6a2xzbDNFY1hhbVJYWjNRcjQzWGdCQmlWdC1XbUVYNWpWdUxGYWtlQXBCTWFKeTU5U1RfbkEtQ3FfTUpkcmRSOVlOcV9DMV81aUhSaWJHSkgwVzBJZUFMY3BVQzl6VjM3ZWlHNkwxanZoaE5DeWJB0gG6AUFVX3lxTFBmOVRCN200b0dHSE53UC11eVkwM2RvVkhvMmQtM3ozYlJEZ1RLcC1DNjJ2eDB6RnMtRzV3VXhWMVlwclh1Skpzc0VmeUlVVXJYbkY0dWFNaVBCc0xHRVc5bVMtajh1WHFDVlprY2NDaG9DblE3dndnVzdHNnRBQi1CY29rMUpEZ0QzOUxmTWp1UDE3UEJzQjYzd3BkdnowREt5c1dRTHo3X0M2T3NGdzBaeUk0azZsblZQQQ?oc=5",
    "date": "2026-11-25 12:18"
   },
   {
+   "t": "Anthropic explains 'Siren,' a security assessment method that involves 'intentionally placing AI in a sandbox with weak security and observing its behavior.'",
+   "src": "GIGAZINE",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9Gb1lTLVEyLVpmby1xb1E1eGFHSDdwUHRsTjBwZ05WeWExOUZYTUljNnhZblhnVEQyRUdGcTh4dWxwcmNrTV9lZXgySnd1RzA2UHMyd0dYSTAtVUZ4NkQyQmxHd2JTU1JFOUhSZnVMVlQ0S0pG?oc=5",
+   "date": "2026-11-25 11:44"
+  },
+  {
    "t": "CrowdStrike’s Zscaler deal aims to give security teams a single kill switch for rogue AI agents",
    "src": "VentureBeat",
    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNLVV1M3pEZnZPOUxyVkxvbXFVMGdPOVBncjVsMEM0UWdiS3U1NmZOdm5pdXgwQmNHNDMzQjg0SlNBQXlsOFFoX3U0bk5aTkdGVnZuaUZaM29sblhzS1ViSzJpUklMZ2NORHR5bTF4Z3NhZWRNcDFsSjR1X2ZWaW0xRnhqczVWNTBORnZrNzNlUmJ0SzRsVHRhTHQxQ1E0NjJzUGg5cWVUQTRhTmFadG4zNzRKYzZlbVBIak9PeVhiRS1rRjVyMnc?oc=5",
    "date": "2026-11-25 03:41"
-  },
-  {
-   "t": "EXCLUSIVE: Some US banks tighten AI-agent controls on concern about models escaping safeguards",
-   "src": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPb0pELTVieEVteWV5TWE5cU80T1M4MmNHVmxQVjNmb0tkQ3diUHRFSTg0X1NJTnhEMGZHcS1CaFZfRHUyeWUyQ0RSMWVOa2drMEY0VG1Ba3puU0FmamtxdzF3dFFLaXl0TGloeVIteHFxMkNiRlFLMU5Yc0FUeDNvVzJZS0lLS2t1TWo5Tmk1RWJjMGlHQ2Q2eXlwc1NRU0lXNEFxODVLZ1FmQm4xLUR0QWFoRTRTS1FqSE5FRGVfUzNPaFZGUlNJREtSb0ZjUQ?oc=5",
-   "date": "2026-11-24 05:45"
-  },
-  {
-   "t": "US banks tighten AI-agent controls, plan kill switches to counter rogue behaviour",
-   "src": "Firstpost",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZUVQY2NyQmFpNGlVQTdYNUlYNHFmaDI3bm80VHZNME5WY0pITDVWOGVOMUFicXZ1YWp4NEZ1V1Z6ZWtqbzRuN3FKUHo0dmRGTXQxSzBVY1F0OGoxc056VW9BSzJfb0I0YVRQeVR6dWxtdkJzREMzdVowQUFFcGhlaEhHVDY5eExQa0pfdnlSSlQ4WXRIdk1GUGZhd2lCZndFMkhlN2xJSXBQWktYNkhWcDJqUXlmcTRjV3dDMC00X1hmZFnSAcgBQVVfeXFMT2U1TEdseUpid0lySGpLa2x2ZWRhTlJRVEZ6RW1sdHktZk56TTFFYWk4MEFiXzIzbWszdWNSREVNZ2Jmb1RYUS0xb0VWQjZPbmFuR3JVX2g3aElyalhIUnVFcFRqakp6ejRwUlhPX3dDMzlGYnJSc2F3aTM5dFVKblcycHVGQjBmSElBOFk5ekFIX0cydkc0bUNXc3FtM3MtSG0tMHFQUG5MUFVocEJIdmJveGxvRjlzMkhpS2IyTFBWTElNdERUTGw?oc=5",
-   "date": "2026-11-23 19:24"
-  },
-  {
-   "t": "What Happens When Autonomous AI Agents Go Rogue?",
-   "src": "Tribune Online",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBTS2xiOU1TUENRTjZyeC1oZHFJQWpjVGdoaGhoUHJnNW9YcUVzcHNJd2o5TGlmaDhqelE4SXY5dTZXVFRLY2YxYVkxWnBaTlNzUlI4a1pYVU9DbDU0dmg0X3liOHp0RG1ZMGc?oc=5",
-   "date": "2026-11-23 17:03"
-  },
-  {
-   "t": "Tencent touts independent safety assessments of latest AI model Hy4",
-   "src": "South China Morning Post",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNeXdvN0dZMy1GRUhSR19yaDJRRTZxOFNjRHR0WnJsUU1VUHpvdmRfMzRMVEpBTnFDZ2JhUnFtR0pJMWthbGNyNE8xaUNTYVpUYmNyYzVyWlc4bjE0TGw5bmF0anFKNVVjTUVsdWpLakRvTmNwMkFJNG4yWTlTTWo2MGxySDZucVM0dGxrTF82enR5UzljNzExaGFNVE5Fc0wzeFdRRFdwekFDSjlJUW1PUFp3VUFrNFEwSFV0Ri1PcjJHZ0JSRGxJV0ZR0gHKAUFVX3lxTFBwZ2VCdlY2RllyQllhWGJuZUgtRWIxazhDM1o4bF9Lc21qOEtpLVRCTk9EVDVHdm13YmRUOExkZmNHbURySTJEckZweUVoNEZFckNEMDBPaDN5UGZwRGZEV3V2eHJIUlZfNnlkd2wxQXBzalFaVDFHWTBCbURud001TmxocXZCc25KQ19vRDNPTlNEUEtTalI3eTRLOVp2bEYtZjIyVy1ORmNaN0ZKd0E5ZnR2QmxXWXMzM3E4YzV4RGEySHRwOFRRZWc?oc=5",
-   "date": "2026-11-22 20:30"
-  },
-  {
-   "t": "California Sues OpenAI Over 80 Rogue AI Agent Incidents",
-   "src": "shattered.io",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxObHExTDlmX211WHNYRE1zYjFZbXUwMV9sWG95S3JlYlVNVXVDWmROYVpnN29lSWtveXZ3MHZLdlhGQlNOeWZCcUE1ZGR0T18zTV9WRGZfY2hoUHktNnEtMzNxdUZFOHhfOHk5NVEtR1lRN2QyM0lBUmpfcFhubXVUaVRnU0JGYUZ0ZVJxYU9OYmQ?oc=5",
-   "date": "2026-11-21 10:59"
-  },
-  {
-   "t": "Is a New Apple AI Agent Arriving on Our MacBooks and iPads?",
-   "src": "CXOToday.com",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeWhTRGVxeVQ2M2xNdWFQcFJMelVxS2Z2TF9xY3FoYnRQYjFGUGNDZmZwTWxYaF9sQjBWaUlHMmpkMWhlZ2tfbWIzN0lrSzE4SVJpMlAtbDRXSUZqV01zSjIzWWptdEFVX0pIM3lyUGU3M0ZVeWUxdUh0Q1JfdHNWTk5Gd04tQlo2TmpR?oc=5",
-   "date": "2026-11-21 08:17"
-  },
-  {
-   "t": "Treasury nominee noncommittal on responsibility for rogue AI agents in accounts",
-   "src": "FedScoop",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9Oc2hTUDZwSV9OZUM5aHplbHRhZ1B6YTBoenhDSDhGVWhNd0t0TEFKSU1nVnpMZmN1ekdkZTJCUVF6SWdTUkxZcXlROHdnSHpuRHlLOXpUTFBNTkxPSHVqeG1SMzR3UFdQRlpDTEdUYw?oc=5",
-   "date": "2026-11-21 04:11"
-  },
-  {
-   "t": "'I couldn't work out what I'd done': When digital assistants go rogue",
-   "src": "SBS",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSTItZ1F1b2tLRmNrQ0RXZS1EOTNiM3h5ZnVNeEFjck4xSzBSUlMza1R4VmVLUGRFR1NyUEhXOXdqbHVyWkFZR08tc1AzV3ZFVjg1blFXSVdBZWRBSUdOY0M1Y1Jzc2pfRTJNLUpaYjdmN2RvMVNxZ3NqS1BaaWxveDRJalJaMGpCYzlMUTBmTkliZ0NkaW9Zal95blFLZW9hOWk5TVBZMkd0VkZH?oc=5",
-   "date": "2026-11-21 02:34"
-  },
-  {
-   "t": "Who’s to blame for a rogue AI?",
-   "src": "Daily Democrat",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9nYUlRQ3g3QkpPZGU3OVJ5cWhHWERjTnhCWGJhbmEyTEdLM2VpSXo0b1pjWE5VejN3WXJPMkZQd29TQXdxNGJQU0NROEFBdTFpWEFXM0NJV0VmaDZ5dnZYcG5tUXhLdWJZV24wRENGVEdTX2RwMXZIeVhR?oc=5",
-   "date": "2026-11-21 00:01"
-  },
-  {
-   "t": "Major US banks say all AI agent actions are user authorized, even mistakes",
-   "src": "Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORHpXV19tZmowWG04aTVLc185WkIwNXVFdEVMWlZieFY5ajNRb05PX1E5NTk1RVNZSWpITnJWZnBsdnhIS0VoYkdsbkNSZHpjV2dFQThnYkkyWFlaY2h3ei02bVhrTUdhRURJVjBhZnBTaTFUNWM1OTBEMjl1dW9pcmJBRkNzdzVrWWtyMlBTVlc?oc=5",
-   "date": "2026-11-20 22:46"
-  },
-  {
-   "t": "Most security teams can't spot a rogue AI agent, says former FBI cyber investigator",
-   "src": "VentureBeat",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNWZtdGVDLUdCa1c2QmVPSm9lWWdVU0czU29GQ01TNzBfa0JmYXRkNFBoQzBFMmVsQjRlOVZuNXJudHZkNVVtdWtSYlA5dW5jWXJCNGpBbXJ3T3dHekdNZWowbDR4NXROQ2RtZzFDeml0VV94cUp3UFFlV180aFNhVmtSU2lrRW5NQ2k4ZlJaSnVvUWZ6QXNSeU5RQUVPRGpXeWVsa01rSkZiTWtXZWNFOU5KZkY?oc=5",
-   "date": "2026-11-19 23:41"
   }
  ]
 }
